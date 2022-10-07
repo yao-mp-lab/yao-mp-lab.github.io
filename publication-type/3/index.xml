@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Yinuo Yao (Noah, 姚一诺)</title>
+    <link>https://yaoyn.github.io/publication-type/3/</link>
+      <atom:link href="https://yaoyn.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yaoyn.github.io/media/icon_hub000a47132084e889e30283927fb88e4_1708567_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://yaoyn.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>A Level-Set Immersed Boundary Method for  Reactive Transport in Complex Topologies with Moving Interfaces</title>
+      <link>https://yaoyn.github.io/publication/yao-2022-bb-gcibm-ls/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/publication/yao-2022-bb-gcibm-ls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Reactor Design on Temperature and Concentration Polarization in Direct Contact Membrane Distillation Systems</title>
+      <link>https://yaoyn.github.io/publication/yao-2022-aa-md/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/publication/yao-2022-aa-md/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
