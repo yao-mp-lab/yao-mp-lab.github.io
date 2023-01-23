@@ -5,7 +5,7 @@
     <link>https://yaoyn.github.io/</link>
       <atom:link href="https://yaoyn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yinuo Yao (Noah, 姚一诺)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yaoyn.github.io/media/icon_hub000a47132084e889e30283927fb88e4_1708567_512x512_fill_lanczos_center_3.png</url>
       <title>Yinuo Yao (Noah, 姚一诺)</title>
@@ -14,14 +14,14 @@
     
     <item>
       <title>A Level-Set Immersed Boundary Method for  Reactive Transport in Complex Topologies with Moving Interfaces</title>
-      <link>https://yaoyn.github.io/publication/yao-2022-bb-gcibm-ls/</link>
-      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://yaoyn.github.io/publication/yao-2022-bb-gcibm-ls/</guid>
+      <link>https://yaoyn.github.io/publication/yao-2023-rg-gcibm-ls/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/publication/yao-2023-rg-gcibm-ls/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Effect of Reactor Design on Temperature and Concentration Polarization in Direct Contact Membrane Distillation Systems</title>
+      <title>Understanding Flow Dynamics in Membrane Distillation: Effects of Reactor Design on Polarization</title>
       <link>https://yaoyn.github.io/publication/yao-2022-aa-md/</link>
       <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://yaoyn.github.io/publication/yao-2022-aa-md/</guid>
@@ -97,8 +97,7 @@ hydrodynamic processes related to flow-particle and particle-particle interactio
 understanding of hydrodynamics, better design and operational practices can be developed. To overcome this, a collocated particle resolved
 simulation (PRS) using the immersed boundary method (IBM) is developed to accurately quantify the fluid-particle and
 particle-particle interactions in a fluidized-bed reactor.We first investigate the effect of particle Reynolds
-number which is essentially a nondimensional flow rate that controls the bed expansion. Results imply the existence of an
-intermediate particle Reynolds number regime at which the combined effect of flow and collisions is optimal and both mixing in the
+number which is essentially a nondimensional flow rate that controls the bed expansion. Results imply the existence of an intermediate particle Reynolds number regime at which the combined effect of flow and collisions is optimal and both mixing in the
 AFBR and membrane scouring in the P-MBR are expected to be maximized. While the Reynolds number is a critical parameter, the design
 of fluidized beds depends critically on the Archimedes number that combines the effect of particle and fluid properties. Simulation
 results reveal that particles with Archimedes number greater than roughly 1000 should be used to avoid flow short-circuiting due to
@@ -123,6 +122,14 @@ of the two segregated layers&lt;/p&gt;
       <link>https://yaoyn.github.io/publication/yao-2021-rg-competing/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://yaoyn.github.io/publication/yao-2021-rg-competing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle resolved simulations of particle-flow interactions in fluidized beds to optimize design and operation of domestic wastewater treatment systems</title>
+      <link>https://yaoyn.github.io/publication/yao-2021-ac-thesis/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/publication/yao-2021-ac-thesis/</guid>
       <description></description>
     </item>
     

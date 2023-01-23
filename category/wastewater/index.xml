@@ -33,8 +33,7 @@ hydrodynamic processes related to flow-particle and particle-particle interactio
 understanding of hydrodynamics, better design and operational practices can be developed. To overcome this, a collocated particle resolved
 simulation (PRS) using the immersed boundary method (IBM) is developed to accurately quantify the fluid-particle and
 particle-particle interactions in a fluidized-bed reactor.We first investigate the effect of particle Reynolds
-number which is essentially a nondimensional flow rate that controls the bed expansion. Results imply the existence of an
-intermediate particle Reynolds number regime at which the combined effect of flow and collisions is optimal and both mixing in the
+number which is essentially a nondimensional flow rate that controls the bed expansion. Results imply the existence of an intermediate particle Reynolds number regime at which the combined effect of flow and collisions is optimal and both mixing in the
 AFBR and membrane scouring in the P-MBR are expected to be maximized. While the Reynolds number is a critical parameter, the design
 of fluidized beds depends critically on the Archimedes number that combines the effect of particle and fluid properties. Simulation
 results reveal that particles with Archimedes number greater than roughly 1000 should be used to avoid flow short-circuiting due to
