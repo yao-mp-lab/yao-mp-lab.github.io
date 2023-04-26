@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | Yinuo Yao (Noah, 姚一诺)</title>
-    <link>https://yaoyn.github.io/publication_types/</link>
-      <atom:link href="https://yaoyn.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publication_types | Yao Multiphysics Lab</title>
+    <link>https://yao-mp-lab.github.io/publication_types/</link>
+      <atom:link href="https://yao-mp-lab.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yaoyn.github.io/media/icon_hub000a47132084e889e30283927fb88e4_1708567_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yao-mp-lab.github.io/media/icon_hu186e74083cfa4820687e233cf909bdcc_1083327_512x512_fill_lanczos_center_3.png</url>
       <title>Publication_types</title>
-      <link>https://yaoyn.github.io/publication_types/</link>
+      <link>https://yao-mp-lab.github.io/publication_types/</link>
     </image>
     
   </channel>

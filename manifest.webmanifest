@@ -1,15 +1,15 @@
 {
-  "name": "Yinuo Yao (Noah, 姚一诺)",
-  "short_name": "Yinuo Yao (Noah, 姚一诺)",
+  "name": "Yao Multiphysics Lab",
+  "short_name": "Yao Multiphysics Lab",
   "lang": "en-us",
-  "theme_color": "#8C1515",
-  "background_color": "#8C1515",
+  "theme_color": "#500000",
+  "background_color": "#500000",
   "icons": [{
-    "src": "/media/icon_hub000a47132084e889e30283927fb88e4_1708567_192x192_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu186e74083cfa4820687e233cf909bdcc_1083327_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/media/icon_hub000a47132084e889e30283927fb88e4_1708567_512x512_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu186e74083cfa4820687e233cf909bdcc_1083327_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
