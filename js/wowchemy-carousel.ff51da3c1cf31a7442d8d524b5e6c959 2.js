@@ -1,0 +1,1 @@
+function e(){document.querySelectorAll(".carousel").forEach(i=>{let t=i.querySelector(".carousel-item"),n=Math.max.apply(null,t.map(function(){return this.outerHeight()}).get());t.forEach(o=>{o.style.minHeight=n+"px"})})}window.addEventListener("load",e);window.addEventListener("resize",e);window.addEventListener("orientationchange",e);

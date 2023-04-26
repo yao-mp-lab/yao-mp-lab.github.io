@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How Yong Ng | Yao Multiphysics Lab</title>
+    <link>https://yao-mp-lab.github.io/authors/how-yong-ng/</link>
+      <atom:link href="https://yao-mp-lab.github.io/authors/how-yong-ng/index.xml" rel="self" type="application/rss+xml" />
+    <description>How Yong Ng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yao-mp-lab.github.io/media/icon_hu186e74083cfa4820687e233cf909bdcc_1083327_512x512_fill_lanczos_center_3.png</url>
+      <title>How Yong Ng</title>
+      <link>https://yao-mp-lab.github.io/authors/how-yong-ng/</link>
+    </image>
+    
+    <item>
+      <title>Bio-entrapped membrane reactor and salt marsh sediment membrane bioreactor for the treatment of pharmaceutical wastewater: treatment performance and microbial communities</title>
+      <link>https://yao-mp-lab.github.io/publication/ng-2014-ol-entrapped/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://yao-mp-lab.github.io/publication/ng-2014-ol-entrapped/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

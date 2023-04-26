@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CFD | Yinuo Yao (Noah, 姚一诺)</title>
+    <link>https://yaoyn.github.io/tag/cfd/</link>
+      <atom:link href="https://yaoyn.github.io/tag/cfd/index.xml" rel="self" type="application/rss+xml" />
+    <description>CFD</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 23:15:16 +0000</lastBuildDate>
+    <image>
+      <url>https://yaoyn.github.io/media/icon_hub000a47132084e889e30283927fb88e4_1708567_512x512_fill_lanczos_center_3.png</url>
+      <title>CFD</title>
+      <link>https://yaoyn.github.io/tag/cfd/</link>
+    </image>
+    
+    <item>
+      <title>Modeling reactive transport in porous media</title>
+      <link>https://yaoyn.github.io/project/reactive_porous/</link>
+      <pubDate>Mon, 07 Mar 2022 23:15:16 +0000</pubDate>
+      <guid>https://yaoyn.github.io/project/reactive_porous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of membrane technologies for water purification </title>
+      <link>https://yaoyn.github.io/project/mem_spacer_optim/</link>
+      <pubDate>Mon, 07 Mar 2022 23:15:16 +0000</pubDate>
+      <guid>https://yaoyn.github.io/project/mem_spacer_optim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using particle-resolved simulations to optimize design and operation of fluidized-bed reactors for domestic wastewater treatment systems</title>
+      <link>https://yaoyn.github.io/project/prs_ww_optim/</link>
+      <pubDate>Mon, 07 Mar 2022 23:15:16 +0000</pubDate>
+      <guid>https://yaoyn.github.io/project/prs_ww_optim/</guid>
+      <description>&lt;p&gt;Recently, the Staged Anaerobic Fluidized-bed Membrane Bioreactor (SAF-MBR), which consists of an anaerobic fluidized-bed reactor
+(AFBR) and a particle-sparged membrane bioreactor (P-MBR), has been developed to reduce the energy intensity of domestic wastewater
+treatment by using anaerobic microorganisms that convert organics into methane in the absence of aeration. While this has the
+potential to transform domestic wastewater treatment into an energy positive process, the moving particles in the SAF-MBR induce
+hydrodynamic processes related to flow-particle and particle-particle interactions that are poorly understood. With a better
+understanding of hydrodynamics, better design and operational practices can be developed. To overcome this, a collocated particle resolved
+simulation (PRS) using the immersed boundary method (IBM) is developed to accurately quantify the fluid-particle and
+particle-particle interactions in a fluidized-bed reactor.We first investigate the effect of particle Reynolds
+number which is essentially a nondimensional flow rate that controls the bed expansion. Results imply the existence of an intermediate particle Reynolds number regime at which the combined effect of flow and collisions is optimal and both mixing in the
+AFBR and membrane scouring in the P-MBR are expected to be maximized. While the Reynolds number is a critical parameter, the design
+of fluidized beds depends critically on the Archimedes number that combines the effect of particle and fluid properties. Simulation
+results reveal that particles with Archimedes number greater than roughly 1000 should be used to avoid flow short-circuiting due to
+clusters in the AFBR and reduced membrane scouring due to ineffective collisions in the P-MBR. In industrial applications, fluidized
+beds typically contain particles of different sizes that tend to segregate into layers in which the particle size increases moving
+upward. Our simulations reveal that segregated layers behave identically as they would in their corresponding monodispersed
+fluidized bed layers. However, the transition region between the two segregated layers cannot be described as a simple superposition
+of the two segregated layers&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environ. Biotech. | Yinuo Yao (Noah, 姚一诺)</title>
+    <link>https://yaoyn.github.io/category/environ.-biotech./</link>
+      <atom:link href="https://yaoyn.github.io/category/environ.-biotech./index.xml" rel="self" type="application/rss+xml" />
+    <description>Environ. Biotech.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://yaoyn.github.io/media/icon_hub000a47132084e889e30283927fb88e4_1708567_512x512_fill_lanczos_center_3.png</url>
+      <title>Environ. Biotech.</title>
+      <link>https://yaoyn.github.io/category/environ.-biotech./</link>
+    </image>
+    
+    <item>
+      <title>Recovery energy in the form of nitrous oxide from treating high-strength sidestream wastewater</title>
+      <link>https://yaoyn.github.io/project/cando/</link>
+      <pubDate>Mon, 07 Mar 2022 23:15:16 +0000</pubDate>
+      <guid>https://yaoyn.github.io/project/cando/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

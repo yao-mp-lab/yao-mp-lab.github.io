@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Yinuo Yao (Noah, 姚一诺)</title>
+    <link>https://yaoyn.github.io/publication-type/1/</link>
+      <atom:link href="https://yaoyn.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yaoyn.github.io/media/icon_hub000a47132084e889e30283927fb88e4_1708567_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://yaoyn.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Using particle-resolved computational fluid dynamics simulations to optimize wastewater treatment systems: Shrinking the parameter space to accelerate reactor optimization</title>
+      <link>https://yaoyn.github.io/invitedtalks/ucb-2021/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/invitedtalks/ucb-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

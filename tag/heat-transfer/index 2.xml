@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heat Transfer | Yao Multiphysics Lab</title>
+    <link>https://yao-mp-lab.github.io/tag/heat-transfer/</link>
+      <atom:link href="https://yao-mp-lab.github.io/tag/heat-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heat Transfer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 23:15:16 +0000</lastBuildDate>
+    <image>
+      <url>https://yao-mp-lab.github.io/media/icon_hu186e74083cfa4820687e233cf909bdcc_1083327_512x512_fill_lanczos_center_3.png</url>
+      <title>Heat Transfer</title>
+      <link>https://yao-mp-lab.github.io/tag/heat-transfer/</link>
+    </image>
+    
+    <item>
+      <title>Multiscale heat transfer in a battery pack</title>
+      <link>https://yao-mp-lab.github.io/project/battery/</link>
+      <pubDate>Mon, 07 Mar 2022 23:15:16 +0000</pubDate>
+      <guid>https://yao-mp-lab.github.io/project/battery/</guid>
+      <description>&lt;p&gt;Battery packs undergoing thermal runaway pose a serious safety hazard, and accurate modeling of these systems is crucial for system design and safety. However, the multiscale nature of these systems presents a significant challenge, as accurately resolving spatial and temporal scales spanning multiple orders of magnitude is computationally intensive and pushes the limits of theoretical models.&lt;/p&gt;
+&lt;p&gt;In this project, we developed a non-intrusive two-way coupled hybrid algorithm for simulating heat transfer in battery packs undergoing thermal runaway. Our hybrid algorithm combines fine-scale (cell-scale) and continuum-scale (battery pack-scale) models in the same numerical simulation to achieve predictive accuracy while keeping computational costs manageable.&lt;/p&gt;
+&lt;p&gt;We developed two methods with different orders of accuracy to enforce continuity at the coupling boundary, and derived weak formulations of the fine-scale and upscaled governing equations for numerical implementation in FEniCS. Through our simulations, we demonstrated that our hybrid algorithm can accurately predict the average temperature fields within errors determined by homogenization theory.&lt;/p&gt;
+&lt;p&gt;Furthermore, we demonstrated the computational efficiency of our hybrid algorithm against cell-scale simulations, highlighting the significant computational savings achieved without compromising the accuracy of the simulation results.&lt;/p&gt;
+&lt;p&gt;Our project presents a significant advancement in the field of battery pack modeling, providing a non-intrusive hybrid algorithm that can accurately simulate thermal runaway in these systems. Our findings have important implications for battery pack design and safety, providing a valuable tool for improving the efficiency and safety of these systems.&lt;/p&gt;
+&lt;!-- Accurate analytical and numerical modeling of multiscale systems is a daunting task, since the need to properly resolve spatial and temporal scales spanning multiple orders of magnitude pushes the limits of both our theoretical models as well as our computational capabilities.  Battery packs undergoing thermal runaway are one such example. While the thermal front&#39;s characteristic spatial scale may be at the scale of single cells, accurate predictions of its dynamics through the entire battery pack is critical to guide the overall system design. Classical approaches to model thermal runaway in battery packs include the use of coarse-grained macroscopic models, which describe the spatially-averaged response of the system. However, such models may become inaccurate if appropriate dynamic conditions are not met. Hybrid models that combine fine-scale (cell-scale) and continnum-scale (battery pack-scale) models in the same numerical simulation can achieve predictive accuracy while keeping computational costs in check. Here, we present a non-intrusive two-way coupled hybrid algorithm for simulating heat transfer in battery packs. 
+
+Two methods with different orders of accuracy are developed to enforce continuity at the coupling boundary, and weak formulations of
+the fine-scale and upscaled governing equations are derived for numerical implementation in FEniCS. We demonstrate that hybrid
+simulations can accurately predict the average temperature fields within errors *a priori* determined by homogenization
+theory. Finally, we demonstrate the computational efficiency of the hybrid algorithm against cell-scale simulations. --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

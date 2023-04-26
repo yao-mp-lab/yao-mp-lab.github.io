@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Yinuo (Noah) Yao</title>
+    <link>https://yaoyn.github.io/projects/</link>
+      <atom:link href="https://yaoyn.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 23:15:16 +0000</lastBuildDate>
+    <image>
+      <url>https://yaoyn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://yaoyn.github.io/projects/</link>
+    </image>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://yaoyn.github.io/projects/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/projects/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of membrane technologies for water purification </title>
+      <link>https://yaoyn.github.io/projects/optimization-of-membrane-technologies-for-water-purification/</link>
+      <pubDate>Mon, 07 Mar 2022 23:15:16 +0000</pubDate>
+      <guid>https://yaoyn.github.io/projects/optimization-of-membrane-technologies-for-water-purification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of energy storage in batteries</title>
+      <link>https://yaoyn.github.io/projects/example/</link>
+      <pubDate>Mon, 07 Mar 2022 23:14:23 +0000</pubDate>
+      <guid>https://yaoyn.github.io/projects/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

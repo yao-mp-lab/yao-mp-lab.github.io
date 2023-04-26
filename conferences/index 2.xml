@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences | Yinuo Yao (Noah, 姚一诺)</title>
+    <link>https://yaoyn.github.io/conferences/</link>
+      <atom:link href="https://yaoyn.github.io/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conferences</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yaoyn.github.io/media/icon_hub000a47132084e889e30283927fb88e4_1708567_512x512_fill_lanczos_center_3.png</url>
+      <title>Conferences</title>
+      <link>https://yaoyn.github.io/conferences/</link>
+    </image>
+    
+    <item>
+      <title>CFD-accelerated bioreactor optimization by reducing the hydrodynamic parameter space</title>
+      <link>https://yaoyn.github.io/conferences/aeesp-yao-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/conferences/aeesp-yao-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional Flows and Dean Vortices in Membrane Distillation Systems</title>
+      <link>https://yaoyn.github.io/conferences/nams-yao-2021/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/conferences/nams-yao-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle-resolved DNS (PR-DNS) to study the effect of flow and collisions in a monodispersed fluidized bed reactor</title>
+      <link>https://yaoyn.github.io/conferences/dfd-yao-2020/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/conferences/dfd-yao-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Particle-Resolved DNS (PR-DNS) to Study the Bulk Settling Velocity of Poly-Dispersed Particles</title>
+      <link>https://yaoyn.github.io/conferences/dfd-yao-2019/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/conferences/dfd-yao-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complete nitritation of Anaerobic Digester Centrate without pH setpoint control</title>
+      <link>https://yaoyn.github.io/conferences/renuwit_iab-yao-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/conferences/renuwit_iab-yao-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achieving long-term stable nitritation in SBRs through alternating the presence of dual stressors</title>
+      <link>https://yaoyn.github.io/conferences/renuwit-yao-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/conferences/renuwit-yao-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab-sacle nitrous denitritation reactor in CANDO system</title>
+      <link>https://yaoyn.github.io/conferences/renuwit-wang-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/conferences/renuwit-wang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Coupled Aerobic Anoxic Nitrous Decomposition Operation (CANDO)</title>
+      <link>https://yaoyn.github.io/conferences/renuwit-wang-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/conferences/renuwit-wang-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

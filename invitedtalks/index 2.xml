@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invitedtalks | Yinuo Yao (Noah, 姚一诺)</title>
+    <link>https://yaoyn.github.io/invitedtalks/</link>
+      <atom:link href="https://yaoyn.github.io/invitedtalks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Invitedtalks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yaoyn.github.io/media/icon_hub000a47132084e889e30283927fb88e4_1708567_512x512_fill_lanczos_center_3.png</url>
+      <title>Invitedtalks</title>
+      <link>https://yaoyn.github.io/invitedtalks/</link>
+    </image>
+    
+    <item>
+      <title>Staged Anaerobic Fluidized-bed Membrane Bioreactor: A step towards net-zero wastewater treatment</title>
+      <link>https://yaoyn.github.io/invitedtalks/auburn-2022/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/invitedtalks/auburn-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using particle-resolved computational fluid dynamics simulations to optimize wastewater treatment systems: Shrinking the parameter space to accelerate reactor optimization</title>
+      <link>https://yaoyn.github.io/invitedtalks/ucb-2021/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/invitedtalks/ucb-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-informed design for MINEWater systems</title>
+      <link>https://yaoyn.github.io/invitedtalks/mit-2021/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yaoyn.github.io/invitedtalks/mit-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
