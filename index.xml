@@ -438,6 +438,9 @@ with methane. --&gt;</description>
 
 
 
+
+
+
 &lt;div class=&#34;gallery-grid&#34;&gt;
 
   
@@ -455,42 +458,8 @@ with methane. --&gt;</description>
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://yao-mp-lab.github.io/media/albums/gallery/BushLib_2023_05.jpeg&#34; data-caption=&#34;Bush Library&#34;&gt;
-      &lt;img src=&#34;https://yao-mp-lab.github.io/media/albums/gallery/BushLib_2023_05_hufefdb0a5626630786993cb3cfd229018_422656_888x500_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Bush Library&#34; width=&#34;375&#34; height=&#34;500&#34;&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  
-  
-  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://yao-mp-lab.github.io/media/albums/gallery/BushStatue_2023_05.jpeg&#34; data-caption=&#34;Bush Statue&#34;&gt;
-      &lt;img src=&#34;https://yao-mp-lab.github.io/media/albums/gallery/BushStatue_2023_05_huc0443ebd46276d452d4579ca3cc7558e_6520501_888x500_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Bush Statue&#34; width=&#34;375&#34; height=&#34;500&#34;&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  
-  
-  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://yao-mp-lab.github.io/media/albums/gallery/DLEB_2023_05.jpeg&#34; data-caption=&#34;Dwight Look Engineering Building (DLEB) in May 2023&#34;&gt;
-      &lt;img src=&#34;https://yao-mp-lab.github.io/media/albums/gallery/DLEB_2023_05_hue68bba30f2606147fcb36cc7ff878e7d_6330223_888x500_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Dwight Look Engineering Building (DLEB) in May 2023&#34; width=&#34;375&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://yao-mp-lab.github.io/media/albums/gallery/Zach_2023_05.jpeg&#34; data-caption=&#34;Zachry Engineering Education Complex in May 2023&#34;&gt;
+      &lt;img src=&#34;https://yao-mp-lab.github.io/media/albums/gallery/Zach_2023_05_hu7b74d356f6a91a1c731f2cfc3d0d1ba3_7281784_750x750_fill_q75_h2_lanczos_smart1.webp&#34; loading=&#34;lazy&#34; alt=&#34;Zachry Engineering Education Complex in May 2023&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -507,7 +476,7 @@ with methane. --&gt;</description>
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
     &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://yao-mp-lab.github.io/media/albums/gallery/MilitaryWalk_2023_05.jpeg&#34; data-caption=&#34;Military Walk in May 2023&#34;&gt;
-      &lt;img src=&#34;https://yao-mp-lab.github.io/media/albums/gallery/MilitaryWalk_2023_05_hu4d1cd3268704e28d863e5c261a8133ee_723118_888x500_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Military Walk in May 2023&#34; width=&#34;375&#34; height=&#34;500&#34;&gt;
+      &lt;img src=&#34;https://yao-mp-lab.github.io/media/albums/gallery/MilitaryWalk_2023_05_hu4d1cd3268704e28d863e5c261a8133ee_723118_750x750_fill_q75_h2_lanczos_smart1.webp&#34; loading=&#34;lazy&#34; alt=&#34;Military Walk in May 2023&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -523,14 +492,47 @@ with methane. --&gt;</description>
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://yao-mp-lab.github.io/media/albums/gallery/Zach_2023_05.jpeg&#34; data-caption=&#34;Zachry Engineering Education Complex in May 2023&#34;&gt;
-      &lt;img src=&#34;https://yao-mp-lab.github.io/media/albums/gallery/Zach_2023_05_hu7b74d356f6a91a1c731f2cfc3d0d1ba3_7281784_888x500_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Zachry Engineering Education Complex in May 2023&#34; width=&#34;375&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://yao-mp-lab.github.io/media/albums/gallery/DLEB_2023_05.jpeg&#34; data-caption=&#34;Dwight Look Engineering Building (DLEB) in May 2023&#34;&gt;
+      &lt;img src=&#34;https://yao-mp-lab.github.io/media/albums/gallery/DLEB_2023_05_hue68bba30f2606147fcb36cc7ff878e7d_6330223_750x750_fill_q75_h2_lanczos_smart1.webp&#34; loading=&#34;lazy&#34; alt=&#34;Dwight Look Engineering Building (DLEB) in May 2023&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://yao-mp-lab.github.io/media/albums/gallery/BushStatue_2023_05.jpeg&#34; data-caption=&#34;Bush Statue&#34;&gt;
+      &lt;img src=&#34;https://yao-mp-lab.github.io/media/albums/gallery/BushStatue_2023_05_huc0443ebd46276d452d4579ca3cc7558e_6520501_750x750_fill_q75_h2_lanczos_smart1.webp&#34; loading=&#34;lazy&#34; alt=&#34;Bush Statue&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://yao-mp-lab.github.io/media/albums/gallery/BushLib_2023_05.jpeg&#34; data-caption=&#34;Bush Library&#34;&gt;
+      &lt;img src=&#34;https://yao-mp-lab.github.io/media/albums/gallery/BushLib_2023_05_hufefdb0a5626630786993cb3cfd229018_422656_750x750_fill_q75_h2_lanczos_smart1.webp&#34; loading=&#34;lazy&#34; alt=&#34;Bush Library&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
 
 &lt;/div&gt;
-
 </description>
     </item>
     
