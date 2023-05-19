@@ -267,16 +267,16 @@
     <loc>https://yao-mp-lab.github.io/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://yao-mp-lab.github.io/authors/aggies2/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://yao-mp-lab.github.io/authors/aggiespostdoc3/</loc>
+    <loc>https://yao-mp-lab.github.io/authors/aggiepostdoc3/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yao-mp-lab.github.io/authors/soyoung-kim/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yao-mp-lab.github.io/tag/water/wastewater/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yao-mp-lab.github.io/authors/zhongyu-shi/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
