@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yao Multiphysics Lab</title>
+    <title>MSCE Lab</title>
     <link>https://yao-mp-lab.github.io/</link>
       <atom:link href="https://yao-mp-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yao Multiphysics Lab</description>
+    <description>MSCE Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yao-mp-lab.github.io/media/icon_hu186e74083cfa4820687e233cf909bdcc_1083327_512x512_fill_lanczos_center_3.png</url>
-      <title>Yao Multiphysics Lab</title>
+      <title>MSCE Lab</title>
       <link>https://yao-mp-lab.github.io/</link>
     </image>
     
@@ -690,6 +690,15 @@ working with us, please email Dr. Yao with a subject line as
 
 
 &lt;mark&gt;&amp;ldquo;Visiting &amp;lt;your name&amp;gt;&amp;rdquo;&lt;/mark&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Outreach Activites</title>
+      <link>https://yao-mp-lab.github.io/outreach/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yao-mp-lab.github.io/outreach/</guid>
+      <description>&lt;h2 id=&#34;to-be-added&#34;&gt;To be added&amp;hellip;&lt;/h2&gt;
 </description>
     </item>
     
