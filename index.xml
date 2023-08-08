@@ -5,12 +5,44 @@
     <link>https://yao-mp-lab.github.io/</link>
       <atom:link href="https://yao-mp-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yao Multiphysics Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yao-mp-lab.github.io/media/icon_hu186e74083cfa4820687e233cf909bdcc_1083327_512x512_fill_lanczos_center_3.png</url>
       <title>Yao Multiphysics Lab</title>
       <link>https://yao-mp-lab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Our first group dinner @ Velvet Taco</title>
+      <link>https://yao-mp-lab.github.io/news/2023-08-04-group_at_velvet/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yao-mp-lab.github.io/news/2023-08-04-group_at_velvet/</guid>
+      <description>&lt;h2 id=&#34;our-group-officially-starts-with-the-first-dinner-at-velvet-taco&#34;&gt;Our group officially starts with the first dinner at Velvet Taco!&lt;/h2&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./featured.JPG&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ --&gt;
+</description>
+    </item>
     
     <item>
       <title>I will be joining Texas A&amp;M Civil and Environmental Engineering as an Assistant Professor starting August 2023</title>
@@ -479,6 +511,23 @@ with methane. --&gt;</description>
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
     &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://yao-mp-lab.github.io/media/albums/gallery/MilitaryWalk_2023_05.jpeg&#34; data-caption=&#34;Military Walk in May 2023&#34;&gt;
       &lt;img src=&#34;https://yao-mp-lab.github.io/media/albums/gallery/MilitaryWalk_2023_05_hu4d1cd3268704e28d863e5c261a8133ee_723118_750x750_fill_q75_h2_lanczos_smart1.webp&#34; loading=&#34;lazy&#34; alt=&#34;Military Walk in May 2023&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://yao-mp-lab.github.io/media/albums/gallery/GroupDinner_2023_08.jpeg&#34; data-caption=&#34;First Group Dinner @ Velvet Taco&#34;&gt;
+      &lt;img src=&#34;https://yao-mp-lab.github.io/media/albums/gallery/GroupDinner_2023_08_hua663e06c0b49098220fdbce3a28a3831_2905053_750x750_fill_q75_h2_lanczos_smart1.webp&#34; loading=&#34;lazy&#34; alt=&#34;First Group Dinner @ Velvet Taco&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
