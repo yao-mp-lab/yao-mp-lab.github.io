@@ -5,12 +5,21 @@
     <link>https://yao-mp-lab.github.io/news/</link>
       <atom:link href="https://yao-mp-lab.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yao-mp-lab.github.io/media/logo_hu8203d183b9a71b0141ab2558335b7621_40471_300x300_fit_lanczos_3.png</url>
       <title>Latest News</title>
       <link>https://yao-mp-lab.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>Our paper &#34;Non-intrusive hybrid scheme for multiscale heat transfer: Thermal runaway in a battery pack&#34; has been published in Journal of Computational Science.</title>
+      <link>https://yao-mp-lab.github.io/news/2023-09-12-jcos_hybrid/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://yao-mp-lab.github.io/news/2023-09-12-jcos_hybrid/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://yao-mp-lab.github.io/publication/yao-2023-zi-hybrid/&#34;&gt;Link to the publication&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our first group dinner @ Velvet Taco</title>
