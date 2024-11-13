@@ -1,0 +1,54 @@
+.navbar {
+  // position: fixed;
+  // top: 0px;
+  // width: 100%; /* Full width */
+  height: 70px;
+  background: $sta-menu-primary;
+  box-shadow: none;
+  font-size: 18px;
+  padding: 0 1rem;
+  text-transform: uppercase;
+  font-weight: bold !important;
+  .nav-item {
+    // For z-index compatibility with logo on mobile layout, otherwise nav-item can't be clicked when logo present.
+    position: relative;
+    margin: 3px;
+  }
+
+  .navbar-nav {
+    display: flex;
+    
+    .nav-link {
+      color: rgba($sta-menu-text, 0.85);
+      
+      &.active,
+      &:hover{
+        text-decoration: underline;
+      }
+      &:focus {
+        color: $sta-menu-text;
+      }
+
+      &.active {
+        text-decoration: none;
+        color: $sta-menu-text-active !important;
+      }
+    }
+  }
+}
+
+/* This block may have other things in it, if for example you also decided to animate your avatar */
+.avatar-square {
+  -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+  clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+}
+
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}

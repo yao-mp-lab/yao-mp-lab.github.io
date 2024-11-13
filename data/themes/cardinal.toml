@@ -1,0 +1,34 @@
+# Theme metadata
+name = "Cardinal"
+
+[light]
+  # Primary
+  primary = "#8C1515"
+
+  # Menu
+  menu_primary = "#8C1515"
+  menu_text = "#FFFFFF"
+  menu_text_active = "rgb(208, 255, 56)"
+  menu_title = "#FFFFFF"
+
+  # Home sections
+  home_section_odd = "#FFFFFF"
+  home_section_even = "#FFFFFF"
+
+  
+[dark]
+  # Primary
+  primary = "#2E2D29"
+
+  # Menu
+  menu_primary = "#2E2D29"
+  menu_text = "#FFFFFF"
+  menu_text_active = "rgb(208, 255, 56)"
+  menu_title = "#FFFFFF"
+
+  # Home sections
+  home_section_odd = "#4D4F53"
+  home_section_even = "#4D4F53"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"

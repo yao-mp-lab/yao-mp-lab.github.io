@@ -1,0 +1,11 @@
+# Font style metadata
+name = "aggies"
+
+# Optional Google font URL
+google_fonts = "family=Caudex&family=Lato"
+
+# Font families
+heading_font = "Caudex"
+body_font = "Lato"
+nav_font = "Lato"
+mono_font = "Lato"
