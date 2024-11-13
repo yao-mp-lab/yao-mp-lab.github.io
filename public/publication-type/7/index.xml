@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | MSCE Lab</title>
+    <link>http://localhost:1313/publication-type/7/</link>
+      <atom:link href="http://localhost:1313/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>7</title>
+      <link>http://localhost:1313/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Particle resolved simulations of particle-flow interactions in fluidized beds to optimize design and operation of domestic wastewater treatment systems</title>
+      <link>http://localhost:1313/publication/yao-2021-ac-thesis/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2021-ac-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

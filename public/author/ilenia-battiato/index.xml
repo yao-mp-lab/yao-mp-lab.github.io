@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilenia Battiato | MSCE Lab</title>
+    <link>http://localhost:1313/author/ilenia-battiato/</link>
+      <atom:link href="http://localhost:1313/author/ilenia-battiato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ilenia Battiato</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>Ilenia Battiato</title>
+      <link>http://localhost:1313/author/ilenia-battiato/</link>
+    </image>
+    
+    <item>
+      <title>Non-intrusive Hybrid Scheme for Multiscale Heat Transfer: Thermal Runaway in a Battery Pack</title>
+      <link>http://localhost:1313/publication/yao-2023-zi-hybrid/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2023-zi-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Flow Dynamics in Membrane Distillation: Effects of Reactor Design on Polarization</title>
+      <link>http://localhost:1313/publication/yao-2023-aa-md/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2023-aa-md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Level-Set Immersed Boundary Method for  Reactive Transport in Complex Topologies with Moving Interfaces</title>
+      <link>http://localhost:1313/publication/yao-2023-rg-gcibm-ls/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2023-rg-gcibm-ls/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

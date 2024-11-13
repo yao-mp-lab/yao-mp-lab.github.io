@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reactor Design | MSCE Lab</title>
+    <link>http://localhost:1313/tag/reactor-design/</link>
+      <atom:link href="http://localhost:1313/tag/reactor-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reactor Design</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Sep 2021 23:15:16 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>Reactor Design</title>
+      <link>http://localhost:1313/tag/reactor-design/</link>
+    </image>
+    
+    <item>
+      <title>Energy-positive wastewater treatment systems</title>
+      <link>http://localhost:1313/past_projects/prs_ww_optim/</link>
+      <pubDate>Thu, 23 Sep 2021 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/past_projects/prs_ww_optim/</guid>
+      <description>&lt;p&gt;The Staged Anaerobic Fluidized-bed Membrane Bioreactor (SAF-MBR) is a promising technology for reducing the energy intensity of domestic wastewater treatment by using anaerobic microorganisms to convert organics into methane in the absence of aeration. However, the hydrodynamic processes related to flow-particle and particle-particle interactions induced by the moving particles in the SAF-MBR are poorly understood, which hinders its design and operational practices.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://localhost:1313/past_projects/prs_ww_optim/videos/p0200_10_20x.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;p&gt;To address this issue, we have developed a collocated particle resolved simulation (PRS) using the immersed boundary method (IBM) to accurately quantify the fluid-particle and particle-particle interactions in a fluidized-bed reactor. Through our simulations, we have investigated the effect of particle Reynolds number and found that an intermediate particle Reynolds number regime exists where the combined effect of flow and collisions is optimal, maximizing both mixing in the AFBR and membrane scouring in the P-MBR.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hypothetical-impacts-of-upflow-velocity-and-porosity-on-fluidized-bed-reactor-modeling-design-and-operation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./figures/Flow_Effect.png&#34; alt=&#34;Hypothetical impacts of upflow velocity and porosity on fluidized-bed reactor modeling, design and operation.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Hypothetical impacts of upflow velocity and porosity on fluidized-bed reactor modeling, design and operation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;We have also determined that the design of fluidized beds critically depends on the Archimedes number, which combines the effect of particle and fluid properties. Our simulation results show that particles with an Archimedes number greater than roughly 1000 should be used to avoid flow short-circuiting due to clusters in the AFBR and reduced membrane scouring due to ineffective collisions in the P-MBR.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hypothetical-impacts-of-particle-properties-and-archimedes-number-on-fluidized-bed-reactor-modeling-design-and-operation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./figures/Archimedes_Effect.png&#34; alt=&#34;Hypothetical impacts of particle properties and Archimedes number on fluidized-bed reactor modeling, design and operation.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Hypothetical impacts of particle properties and Archimedes number on fluidized-bed reactor modeling, design and operation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Additionally, our simulations reveal that segregated layers of particles behave identically to their corresponding monodispersed fluidized bed layers, but the transition region between the two segregated layers cannot be described as a simple superposition of the two segregated layers. Overall, our findings provide valuable insights into the hydrodynamics of the SAF-MBR and can help improve its design and operation for more efficient and effective wastewater treatment.&lt;/p&gt;
+&lt;!-- Recently, the Staged Anaerobic Fluidized-bed Membrane Bioreactor (SAF-MBR), which consists of an anaerobic fluidized-bed reactor
+(AFBR) and a particle-sparged membrane bioreactor (P-MBR), has been developed to reduce the energy intensity of domestic wastewater
+treatment by using anaerobic microorganisms that convert organics into methane in the absence of aeration. While this has the
+potential to transform domestic wastewater treatment into an energy positive process, the moving particles in the SAF-MBR induce
+hydrodynamic processes related to flow-particle and particle-particle interactions that are poorly understood. With a better
+understanding of hydrodynamics, better design and operational practices can be developed. 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://localhost:1313/past_projects/prs_ww_optim/videos/p0200_10_20x.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+
+To overcome this, a collocated particle resolved simulation (PRS) using the immersed boundary method (IBM) is developed to
+accurately quantify the fluid-particle and particle-particle interactions in a fluidized-bed reactor.We first investigate the effect
+of particle Reynolds number which is essentially a nondimensional flow rate that controls the bed expansion. Results imply the
+existence of an intermediate particle Reynolds number regime at which the combined effect of flow and collisions is optimal and both
+mixing in the AFBR and membrane scouring in the P-MBR are expected to be maximized. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hypothetical-impacts-of-upflow-velocity-and-porosity-on-fluidized-bed-reactor-modeling-design-and-operation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./figures/Flow_Effect.png&#34; alt=&#34;Hypothetical impacts of upflow velocity and porosity on fluidized-bed reactor modeling, design and operation.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Hypothetical impacts of upflow velocity and porosity on fluidized-bed reactor modeling, design and operation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+While the Reynolds number is a critical parameter, the design of fluidized beds depends critically on the Archimedes number that
+combines the effect of particle and fluid properties. Simulation results reveal that particles with Archimedes number greater than
+roughly 1000 should be used to avoid flow short-circuiting due to clusters in the AFBR and reduced membrane scouring due to
+ineffective collisions in the P-MBR. In industrial applications, fluidized beds typically contain particles of different sizes that
+tend to segregate into layers in which the particle size increases moving
+upward. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hypothetical-impacts-of-particle-properties-and-archimedes-number-on-fluidized-bed-reactor-modeling-design-and-operation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./figures/Archimedes_Effect.png&#34; alt=&#34;Hypothetical impacts of particle properties and Archimedes number on fluidized-bed reactor modeling, design and operation.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Hypothetical impacts of particle properties and Archimedes number on fluidized-bed reactor modeling, design and operation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+Our simulations reveal that segregated layers behave identically as they would in their corresponding monodispersed
+fluidized bed layers. However, the transition region between the two segregated layers cannot be described as a simple superposition
+of the two segregated layers --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

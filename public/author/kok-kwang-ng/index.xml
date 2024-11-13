@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kok Kwang Ng | MSCE Lab</title>
+    <link>http://localhost:1313/author/kok-kwang-ng/</link>
+      <atom:link href="http://localhost:1313/author/kok-kwang-ng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kok Kwang Ng</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>Kok Kwang Ng</title>
+      <link>http://localhost:1313/author/kok-kwang-ng/</link>
+    </image>
+    
+    <item>
+      <title>Bio-entrapped membrane reactor and salt marsh sediment membrane bioreactor for the treatment of pharmaceutical wastewater: treatment performance and microbial communities</title>
+      <link>http://localhost:1313/publication/ng-2014-ol-entrapped/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ng-2014-ol-entrapped/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

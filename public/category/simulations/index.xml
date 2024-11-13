@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulations | MSCE Lab</title>
+    <link>http://localhost:1313/category/simulations/</link>
+      <atom:link href="http://localhost:1313/category/simulations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simulations</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 23:15:16 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>Simulations</title>
+      <link>http://localhost:1313/category/simulations/</link>
+    </image>
+    
+    <item>
+      <title>Membrane technologies for water purification </title>
+      <link>http://localhost:1313/past_projects/mem_spacer_optim/</link>
+      <pubDate>Mon, 07 Mar 2022 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/past_projects/mem_spacer_optim/</guid>
+      <description>&lt;p&gt;Membrane-based desalination processes, such as reverse osmosis and membrane distillation, have become widely used for water recovery in recent years. However, these processes face challenges such as membrane fouling due to polarization caused by concentration and temperature gradients. In this project, we aimed to address this challenge by using high-fidelity simulations to gain a comprehensive understanding of mass and heat transport in membrane-based desalination systems.&lt;/p&gt;
+&lt;p&gt;Through our simulations, we investigated the effects of various parameters on the transport properties of these systems, including
+operating conditions, and reactor designs. Our findings will provide quantitative guidelines for the design and operation of membrane-based desalination processes to improve their efficiency and minimize fouling. Specifically, we provide insights into optimal operating conditions to reduce fouling and polarization effects.&lt;/p&gt;
+&lt;p&gt;Overall, our project provides a valuable contribution to the field of membrane-based desalination, offering a deeper understanding of mass and heat transport in these systems and providing practical guidelines for improving their design and operation.&lt;/p&gt;
+&lt;!-- In recent years, membrane has been widely used in different technologies to recover water through desalination. Typical processes
+include but not limited to reverse osmosis and membrane distillation. One challenge associated with these membrane-based
+technolgoies is membrane fouling due to polarization (both concentration and temperature). In this project, we employed
+high-fidelity simulations to understand the mass and heat transport in these systems to provide quantitative guidelines for design
+and operation.  --&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;MD_abstract.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multiscale heat transfer in a battery pack</title>
+      <link>http://localhost:1313/past_projects/battery/</link>
+      <pubDate>Mon, 07 Mar 2022 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/past_projects/battery/</guid>
+      <description>&lt;p&gt;Battery packs undergoing thermal runaway pose a serious safety hazard, and accurate modeling of these systems is crucial for system design and safety. However, the multiscale nature of these systems presents a significant challenge, as accurately resolving spatial and temporal scales spanning multiple orders of magnitude is computationally intensive and pushes the limits of theoretical models.&lt;/p&gt;
+&lt;p&gt;In this project, we developed a non-intrusive two-way coupled hybrid algorithm for simulating heat transfer in battery packs undergoing thermal runaway. Our hybrid algorithm combines fine-scale (cell-scale) and continuum-scale (battery pack-scale) models in the same numerical simulation to achieve predictive accuracy while keeping computational costs manageable.&lt;/p&gt;
+&lt;p&gt;We developed two methods with different orders of accuracy to enforce continuity at the coupling boundary, and derived weak
+formulations of the fine-scale and upscaled governing equations for numerical implementation in FEniCS. Through our simulations, we
+demonstrated that our hybrid algorithm can accurately predict the average temperature fields within errors determined by
+homogenization theory.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./gifs/Fine-Scale-One-Sided.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./gifs/Hybrid-Taylor-One-Sided-30.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./gifs/Hybrid-Series-One-Sided-30.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-thermal-runaway-of-a-battery-pack-fine-scale-hybrid-with-taylor-hybrid-with-series-and-upscaled-packing-temperature&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./gifs/Upscaled-Packing-One-Sided.gif&#34; alt=&#34;Thermal runaway of a battery pack: Fine-scale, Hybrid with Taylor, Hybrid with Series, and Upscaled packing temperature.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Thermal runaway of a battery pack: Fine-scale, Hybrid with Taylor, Hybrid with Series, and Upscaled packing temperature.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Furthermore, we demonstrated the computational efficiency of our hybrid algorithm against cell-scale simulations, highlighting the significant computational savings achieved without compromising the accuracy of the simulation results.&lt;/p&gt;
+&lt;p&gt;Our project presents a significant advancement in the field of battery pack modeling, providing a non-intrusive hybrid algorithm that can accurately simulate thermal runaway in these systems. Our findings have important implications for battery pack design and safety, providing a valuable tool for improving the efficiency and safety of these systems.&lt;/p&gt;
+&lt;!-- Accurate analytical and numerical modeling of multiscale systems is a daunting task, since the need to properly resolve spatial and temporal scales spanning multiple orders of magnitude pushes the limits of both our theoretical models as well as our computational capabilities.  Battery packs undergoing thermal runaway are one such example. While the thermal front&#39;s characteristic spatial scale may be at the scale of single cells, accurate predictions of its dynamics through the entire battery pack is critical to guide the overall system design. Classical approaches to model thermal runaway in battery packs include the use of coarse-grained macroscopic models, which describe the spatially-averaged response of the system. However, such models may become inaccurate if appropriate dynamic conditions are not met. Hybrid models that combine fine-scale (cell-scale) and continnum-scale (battery pack-scale) models in the same numerical simulation can achieve predictive accuracy while keeping computational costs in check. Here, we present a non-intrusive two-way coupled hybrid algorithm for simulating heat transfer in battery packs. 
+
+Two methods with different orders of accuracy are developed to enforce continuity at the coupling boundary, and weak formulations of
+the fine-scale and upscaled governing equations are derived for numerical implementation in FEniCS. We demonstrate that hybrid
+simulations can accurately predict the average temperature fields within errors *a priori* determined by homogenization
+theory. Finally, we demonstrate the computational efficiency of the hybrid algorithm against cell-scale simulations. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Energy-positive wastewater treatment systems</title>
+      <link>http://localhost:1313/past_projects/prs_ww_optim/</link>
+      <pubDate>Thu, 23 Sep 2021 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/past_projects/prs_ww_optim/</guid>
+      <description>&lt;p&gt;The Staged Anaerobic Fluidized-bed Membrane Bioreactor (SAF-MBR) is a promising technology for reducing the energy intensity of domestic wastewater treatment by using anaerobic microorganisms to convert organics into methane in the absence of aeration. However, the hydrodynamic processes related to flow-particle and particle-particle interactions induced by the moving particles in the SAF-MBR are poorly understood, which hinders its design and operational practices.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://localhost:1313/past_projects/prs_ww_optim/videos/p0200_10_20x.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;p&gt;To address this issue, we have developed a collocated particle resolved simulation (PRS) using the immersed boundary method (IBM) to accurately quantify the fluid-particle and particle-particle interactions in a fluidized-bed reactor. Through our simulations, we have investigated the effect of particle Reynolds number and found that an intermediate particle Reynolds number regime exists where the combined effect of flow and collisions is optimal, maximizing both mixing in the AFBR and membrane scouring in the P-MBR.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hypothetical-impacts-of-upflow-velocity-and-porosity-on-fluidized-bed-reactor-modeling-design-and-operation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./figures/Flow_Effect.png&#34; alt=&#34;Hypothetical impacts of upflow velocity and porosity on fluidized-bed reactor modeling, design and operation.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Hypothetical impacts of upflow velocity and porosity on fluidized-bed reactor modeling, design and operation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;We have also determined that the design of fluidized beds critically depends on the Archimedes number, which combines the effect of particle and fluid properties. Our simulation results show that particles with an Archimedes number greater than roughly 1000 should be used to avoid flow short-circuiting due to clusters in the AFBR and reduced membrane scouring due to ineffective collisions in the P-MBR.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hypothetical-impacts-of-particle-properties-and-archimedes-number-on-fluidized-bed-reactor-modeling-design-and-operation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./figures/Archimedes_Effect.png&#34; alt=&#34;Hypothetical impacts of particle properties and Archimedes number on fluidized-bed reactor modeling, design and operation.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Hypothetical impacts of particle properties and Archimedes number on fluidized-bed reactor modeling, design and operation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Additionally, our simulations reveal that segregated layers of particles behave identically to their corresponding monodispersed fluidized bed layers, but the transition region between the two segregated layers cannot be described as a simple superposition of the two segregated layers. Overall, our findings provide valuable insights into the hydrodynamics of the SAF-MBR and can help improve its design and operation for more efficient and effective wastewater treatment.&lt;/p&gt;
+&lt;!-- Recently, the Staged Anaerobic Fluidized-bed Membrane Bioreactor (SAF-MBR), which consists of an anaerobic fluidized-bed reactor
+(AFBR) and a particle-sparged membrane bioreactor (P-MBR), has been developed to reduce the energy intensity of domestic wastewater
+treatment by using anaerobic microorganisms that convert organics into methane in the absence of aeration. While this has the
+potential to transform domestic wastewater treatment into an energy positive process, the moving particles in the SAF-MBR induce
+hydrodynamic processes related to flow-particle and particle-particle interactions that are poorly understood. With a better
+understanding of hydrodynamics, better design and operational practices can be developed. 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://localhost:1313/past_projects/prs_ww_optim/videos/p0200_10_20x.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+
+To overcome this, a collocated particle resolved simulation (PRS) using the immersed boundary method (IBM) is developed to
+accurately quantify the fluid-particle and particle-particle interactions in a fluidized-bed reactor.We first investigate the effect
+of particle Reynolds number which is essentially a nondimensional flow rate that controls the bed expansion. Results imply the
+existence of an intermediate particle Reynolds number regime at which the combined effect of flow and collisions is optimal and both
+mixing in the AFBR and membrane scouring in the P-MBR are expected to be maximized. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hypothetical-impacts-of-upflow-velocity-and-porosity-on-fluidized-bed-reactor-modeling-design-and-operation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./figures/Flow_Effect.png&#34; alt=&#34;Hypothetical impacts of upflow velocity and porosity on fluidized-bed reactor modeling, design and operation.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Hypothetical impacts of upflow velocity and porosity on fluidized-bed reactor modeling, design and operation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+While the Reynolds number is a critical parameter, the design of fluidized beds depends critically on the Archimedes number that
+combines the effect of particle and fluid properties. Simulation results reveal that particles with Archimedes number greater than
+roughly 1000 should be used to avoid flow short-circuiting due to clusters in the AFBR and reduced membrane scouring due to
+ineffective collisions in the P-MBR. In industrial applications, fluidized beds typically contain particles of different sizes that
+tend to segregate into layers in which the particle size increases moving
+upward. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hypothetical-impacts-of-particle-properties-and-archimedes-number-on-fluidized-bed-reactor-modeling-design-and-operation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./figures/Archimedes_Effect.png&#34; alt=&#34;Hypothetical impacts of particle properties and Archimedes number on fluidized-bed reactor modeling, design and operation.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Hypothetical impacts of particle properties and Archimedes number on fluidized-bed reactor modeling, design and operation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+Our simulations reveal that segregated layers behave identically as they would in their corresponding monodispersed
+fluidized bed layers. However, the transition region between the two segregated layers cannot be described as a simple superposition
+of the two segregated layers --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

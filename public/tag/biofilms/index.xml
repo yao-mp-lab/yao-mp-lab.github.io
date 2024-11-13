@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biofilms | MSCE Lab</title>
+    <link>http://localhost:1313/tag/biofilms/</link>
+      <atom:link href="http://localhost:1313/tag/biofilms/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biofilms</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Mar 2024 23:15:16 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>Biofilms</title>
+      <link>http://localhost:1313/tag/biofilms/</link>
+    </image>
+    
+    <item>
+      <title>High-fidelity CFD simulations of Biofilms</title>
+      <link>http://localhost:1313/curr_projects/biofilm_cfd/</link>
+      <pubDate>Sun, 03 Mar 2024 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/curr_projects/biofilm_cfd/</guid>
+      <description>&lt;p&gt;In our lab, we develop advanced computational fluid dynamics (CFD) methods to simulate the complex dynamics of biofilms in various flow environments. These simulations enable us to capture biofilm growth, structural changes, and interactions with surrounding fluids at fine scales, revealing insights that are challenging to obtain experimentally.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biofilms in Porous Media</title>
+      <link>http://localhost:1313/curr_projects/biofilm_microfluidic/</link>
+      <pubDate>Mon, 01 Jan 2024 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/curr_projects/biofilm_microfluidic/</guid>
+      <description>&lt;p&gt;Our lab leverages microfluidic experiments to study biofilms, utilizing micro-scale channels and controlled environments to mimic
+natural fluid flow conditions. These experiments allow us to observe biofilm formation, growth, and behavior under various
+environmental factors, providing a detailed view of interactions within confined spaces. By leveraging advanced imaging and data
+analysis, we aim to uncover fundamental principles of biofilm dynamics that have applications in fields ranging from environmental
+engineering to energy storage.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

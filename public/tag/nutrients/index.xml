@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nutrients | MSCE Lab</title>
+    <link>http://localhost:1313/tag/nutrients/</link>
+      <atom:link href="http://localhost:1313/tag/nutrients/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nutrients</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Feb 2024 23:15:16 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>Nutrients</title>
+      <link>http://localhost:1313/tag/nutrients/</link>
+    </image>
+    
+    <item>
+      <title>High-fidelity CFD simulations of Biofilms</title>
+      <link>http://localhost:1313/curr_projects/plant_transport/</link>
+      <pubDate>Sat, 03 Feb 2024 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/curr_projects/plant_transport/</guid>
+      <description>&lt;p&gt;We leverage CFD to study nutrient transport within plant systems, focusing on capturing the intricate pathways and dynamics of
+nutrient flow and carbon capture from roots to leaves.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

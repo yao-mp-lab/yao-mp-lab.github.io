@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Energy Recovery | MSCE Lab</title>
+    <link>http://localhost:1313/tag/energy-recovery/</link>
+      <atom:link href="http://localhost:1313/tag/energy-recovery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Energy Recovery</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 23:15:16 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>Energy Recovery</title>
+      <link>http://localhost:1313/tag/energy-recovery/</link>
+    </image>
+    
+    <item>
+      <title>Nitrous oxide recovery from sidestream wastewater</title>
+      <link>http://localhost:1313/past_projects/cando/</link>
+      <pubDate>Fri, 01 Jan 2021 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/past_projects/cando/</guid>
+      <description>&lt;p&gt;The release of nitrogen from wastewater into natural water bodies can lead to eutrophication and the formation of oxygen-depleted zones, which can have significant impacts on aquatic ecosystems. Conventional nitrogen removal processes typically require a large amount of energy for aeration, reducing power, and disposal of waste biosolids.&lt;/p&gt;
+&lt;p&gt;Our research aims to address these issues through the development of shortcut nitrogen removal processes, which involve the
+oxidation of ammonium to nitrite, followed by the reduction of nitrite to nitrous oxide using either heterotrophic denitrifiers. To
+recover energy while removing nitrogen from wastewater, we have developed a dual-stressor partial nitritation process with timed
+alkali addition, followed by the Coupled Aerobic-anoxic Nitrous Decomposition Operation (CANDO) process, which recovers nitrogen in
+the form of nitrous oxide.&lt;/p&gt;
+&lt;p&gt;This approach has several advantages over conventional nitrogen removal methods. The dual-stressor partial nitritation process is robust and can operate at high ammonia concentrations, while the CANDO process enables the recovery of nitrogen in the form of nitrous oxide, which can be combusted with methane to generate energy. In addition, this process requires less energy input than conventional methods.&lt;/p&gt;
+&lt;p&gt;Our findings suggest that the use of nitrous oxide in energy generation has significant potential for sustainable wastewater treatment, and we hope that our research will contribute to the development of more efficient and sustainable processes for nitrogen removal from wastewater.&lt;/p&gt;
+&lt;!-- Release of reactive nitrogen from wastewater into natural water bodies can stimulate eutrophica-
+tion and create oxygen-depleted zones. Conventional nitrogen removal processes need significant energy input for aeration, require
+reducing power, and generate large amount of waste biosolids for disposal. These issues can be addressed through shortcut nitrogen
+removal processes in which ammonium is oxidized to nitrite, and nitrite is reduced to dinitrogen gas with either heterotrophic or
+autotrophic denitrifiers. To recover energy while removing nitrogen from wastewater, we first developed a robust dual-stressor
+partial nitritation process with timed alkali addition and then Coupled Aerobic-anoxic Nitrous Decomposition Operation (CANDO)
+process to recover nitrogen in the form of nitrous oxide. Nitrous oxide has been proven to improve energy generation when combusted
+with methane. --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | MSCE Lab</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Non-intrusive Hybrid Scheme for Multiscale Heat Transfer: Thermal Runaway in a Battery Pack</title>
+      <link>http://localhost:1313/publication/yao-2023-zi-hybrid/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2023-zi-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Flow Dynamics in Membrane Distillation: Effects of Reactor Design on Polarization</title>
+      <link>http://localhost:1313/publication/yao-2023-aa-md/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2023-aa-md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Level-Set Immersed Boundary Method for  Reactive Transport in Complex Topologies with Moving Interfaces</title>
+      <link>http://localhost:1313/publication/yao-2023-rg-gcibm-ls/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2023-rg-gcibm-ls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle-resolved simulations of four-way coupled, polydispersed, particle-laden flows</title>
+      <link>http://localhost:1313/publication/yao-2022-aq-collocated-ibm/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2022-aq-collocated-ibm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFD-accelerated bioreactor optimization: reducing the hydrodynamic parameter space</title>
+      <link>http://localhost:1313/publication/yao-2022-du-cfd-acclerated/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2022-du-cfd-acclerated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competing flow and collision effects in a monodispersed liquid--solid fluidized bed at a moderate Archimedes number</title>
+      <link>http://localhost:1313/publication/yao-2021-rg-competing/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2021-rg-competing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle resolved simulations of particle-flow interactions in fluidized beds to optimize design and operation of domestic wastewater treatment systems</title>
+      <link>http://localhost:1313/publication/yao-2021-ac-thesis/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2021-ac-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of the properties of segregated layers in a bidispersed fluidized bed to those of a monodispersed fluidized bed</title>
+      <link>http://localhost:1313/publication/yao-2021-ky-bidispersed/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2021-ky-bidispersed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of particle clustering on hindered settling in high-concentration particle suspensions</title>
+      <link>http://localhost:1313/publication/yao-2021-ex-archimedes/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2021-ex-archimedes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Nitritation of Anaerobic Digester Centrate Using Dual Stressors and Timed Alkali Additions</title>
+      <link>http://localhost:1313/publication/yao-2021-xo-nitritation/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2021-xo-nitritation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of nitrogen-containing coagulants on the nitritation/denitrification of anaerobic digester centrate</title>
+      <link>http://localhost:1313/publication/wang-2020-kp-impact/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2020-kp-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen removal as nitrous oxide for energy recovery: Increased process stability and high nitrous yields at short hydraulic residence times</title>
+      <link>http://localhost:1313/publication/wang-2020-nu-cando-fast/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2020-nu-cando-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio-entrapped membrane reactor and salt marsh sediment membrane bioreactor for the treatment of pharmaceutical wastewater: treatment performance and microbial communities</title>
+      <link>http://localhost:1313/publication/ng-2014-ol-entrapped/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ng-2014-ol-entrapped/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MSCE Lab</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>MSCE Lab</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>MSCE Lab</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Our Fall 2024 Group Outing</title>
+      <link>http://localhost:1313/news/2024-10-24-escape_room/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2024-10-24-escape_room/</guid>
+      <description>&lt;p&gt;Enjoyable but failed attempt!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our Spring 2024 Group Outing</title>
+      <link>http://localhost:1313/news/2024-03-23-group_hiking/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2024-03-23-group_hiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-fidelity CFD simulations of Biofilms</title>
+      <link>http://localhost:1313/curr_projects/biofilm_cfd/</link>
+      <pubDate>Sun, 03 Mar 2024 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/curr_projects/biofilm_cfd/</guid>
+      <description>&lt;p&gt;In our lab, we develop advanced computational fluid dynamics (CFD) methods to simulate the complex dynamics of biofilms in various flow environments. These simulations enable us to capture biofilm growth, structural changes, and interactions with surrounding fluids at fine scales, revealing insights that are challenging to obtain experimentally.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-fidelity CFD simulations of Biofilms</title>
+      <link>http://localhost:1313/curr_projects/plant_transport/</link>
+      <pubDate>Sat, 03 Feb 2024 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/curr_projects/plant_transport/</guid>
+      <description>&lt;p&gt;We leverage CFD to study nutrient transport within plant systems, focusing on capturing the intricate pathways and dynamics of
+nutrient flow and carbon capture from roots to leaves.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biofilms in Porous Media</title>
+      <link>http://localhost:1313/curr_projects/biofilm_microfluidic/</link>
+      <pubDate>Mon, 01 Jan 2024 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/curr_projects/biofilm_microfluidic/</guid>
+      <description>&lt;p&gt;Our lab leverages microfluidic experiments to study biofilms, utilizing micro-scale channels and controlled environments to mimic
+natural fluid flow conditions. These experiments allow us to observe biofilm formation, growth, and behavior under various
+environmental factors, providing a detailed view of interactions within confined spaces. By leveraging advanced imaging and data
+analysis, we aim to uncover fundamental principles of biofilm dynamics that have applications in fields ranging from environmental
+engineering to energy storage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling reactive transport in porous media</title>
+      <link>http://localhost:1313/past_projects/reactive_porous/</link>
+      <pubDate>Fri, 01 Dec 2023 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/past_projects/reactive_porous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soyoung and Zhongyu presented their work at AWWA WQTC in Dallas!</title>
+      <link>http://localhost:1313/news/2023-11-05-awwa-conf/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2023-11-05-awwa-conf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-intrusive Hybrid Scheme for Multiscale Heat Transfer: Thermal Runaway in a Battery Pack</title>
+      <link>http://localhost:1313/publication/yao-2023-zi-hybrid/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2023-zi-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Non-intrusive hybrid scheme for multiscale heat transfer: Thermal runaway in a battery pack&#34; has been published in Journal of Computational Science.</title>
+      <link>http://localhost:1313/news/2023-09-12-jcos_hybrid/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2023-09-12-jcos_hybrid/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/publication/yao-2023-zi-hybrid/&#34;&gt;Link to the publication&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our first group dinner @ Velvet Taco</title>
+      <link>http://localhost:1313/news/2023-08-04-group_at_velvet/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2023-08-04-group_at_velvet/</guid>
+      <description>&lt;h2 id=&#34;our-group-officially-starts-with-the-first-dinner-at-velvet-taco&#34;&gt;Our group officially starts with the first dinner at Velvet Taco!&lt;/h2&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./featured.JPG&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I will be joining Texas A&amp;M Civil and Environmental Engineering as an Assistant Professor starting August 2023</title>
+      <link>http://localhost:1313/news/2023-04-26-join/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2023-04-26-join/</guid>
+      <description>&lt;h2 id=&#34;go-aggies&#34;&gt;Go Aggies!&lt;/h2&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./featured.JPG&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Understanding Flow Dynamics in Membrane Distillation: Effects of Reactor Design on Polarization&#34; has been published in Separation and Purification Technology.</title>
+      <link>http://localhost:1313/news/2023-03-26-md-paper/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2023-03-26-md-paper/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/publication/yao-2023-aa-md/&#34;&gt;Link to the publication&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding Flow Dynamics in Membrane Distillation: Effects of Reactor Design on Polarization</title>
+      <link>http://localhost:1313/publication/yao-2023-aa-md/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2023-aa-md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;A level-set immersed boundary method for reactive transport in complex topologies with moving interfaces&#34; has been published in Journal of Computational Physics.</title>
+      <link>http://localhost:1313/news/2023-01-26-lsgcibm-paper/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2023-01-26-lsgcibm-paper/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/publication/yao-2023-rg-gcibm-ls/&#34;&gt;Link to the publication&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Level-Set Immersed Boundary Method for  Reactive Transport in Complex Topologies with Moving Interfaces</title>
+      <link>http://localhost:1313/publication/yao-2023-rg-gcibm-ls/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2023-rg-gcibm-ls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;Particle‐resolved simulations of four‐way coupled, polydispersed, particle‐laden flows&#34; has been published in International Journal for Numerical Methods in Fluids.</title>
+      <link>http://localhost:1313/news/2022-06-22-collocated-ibm-paper/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2022-06-22-collocated-ibm-paper/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/publication/yao-2022-aq-collocated-ibm/&#34;&gt;Link to the publication&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Particle-resolved simulations of four-way coupled, polydispersed, particle-laden flows</title>
+      <link>http://localhost:1313/publication/yao-2022-aq-collocated-ibm/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2022-aq-collocated-ibm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Membrane technologies for water purification </title>
+      <link>http://localhost:1313/past_projects/mem_spacer_optim/</link>
+      <pubDate>Mon, 07 Mar 2022 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/past_projects/mem_spacer_optim/</guid>
+      <description>&lt;p&gt;Membrane-based desalination processes, such as reverse osmosis and membrane distillation, have become widely used for water recovery in recent years. However, these processes face challenges such as membrane fouling due to polarization caused by concentration and temperature gradients. In this project, we aimed to address this challenge by using high-fidelity simulations to gain a comprehensive understanding of mass and heat transport in membrane-based desalination systems.&lt;/p&gt;
+&lt;p&gt;Through our simulations, we investigated the effects of various parameters on the transport properties of these systems, including
+operating conditions, and reactor designs. Our findings will provide quantitative guidelines for the design and operation of membrane-based desalination processes to improve their efficiency and minimize fouling. Specifically, we provide insights into optimal operating conditions to reduce fouling and polarization effects.&lt;/p&gt;
+&lt;p&gt;Overall, our project provides a valuable contribution to the field of membrane-based desalination, offering a deeper understanding of mass and heat transport in these systems and providing practical guidelines for improving their design and operation.&lt;/p&gt;
+&lt;!-- In recent years, membrane has been widely used in different technologies to recover water through desalination. Typical processes
+include but not limited to reverse osmosis and membrane distillation. One challenge associated with these membrane-based
+technolgoies is membrane fouling due to polarization (both concentration and temperature). In this project, we employed
+high-fidelity simulations to understand the mass and heat transport in these systems to provide quantitative guidelines for design
+and operation.  --&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;MD_abstract.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multiscale heat transfer in a battery pack</title>
+      <link>http://localhost:1313/past_projects/battery/</link>
+      <pubDate>Mon, 07 Mar 2022 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/past_projects/battery/</guid>
+      <description>&lt;p&gt;Battery packs undergoing thermal runaway pose a serious safety hazard, and accurate modeling of these systems is crucial for system design and safety. However, the multiscale nature of these systems presents a significant challenge, as accurately resolving spatial and temporal scales spanning multiple orders of magnitude is computationally intensive and pushes the limits of theoretical models.&lt;/p&gt;
+&lt;p&gt;In this project, we developed a non-intrusive two-way coupled hybrid algorithm for simulating heat transfer in battery packs undergoing thermal runaway. Our hybrid algorithm combines fine-scale (cell-scale) and continuum-scale (battery pack-scale) models in the same numerical simulation to achieve predictive accuracy while keeping computational costs manageable.&lt;/p&gt;
+&lt;p&gt;We developed two methods with different orders of accuracy to enforce continuity at the coupling boundary, and derived weak
+formulations of the fine-scale and upscaled governing equations for numerical implementation in FEniCS. Through our simulations, we
+demonstrated that our hybrid algorithm can accurately predict the average temperature fields within errors determined by
+homogenization theory.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./gifs/Fine-Scale-One-Sided.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./gifs/Hybrid-Taylor-One-Sided-30.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./gifs/Hybrid-Series-One-Sided-30.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-thermal-runaway-of-a-battery-pack-fine-scale-hybrid-with-taylor-hybrid-with-series-and-upscaled-packing-temperature&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./gifs/Upscaled-Packing-One-Sided.gif&#34; alt=&#34;Thermal runaway of a battery pack: Fine-scale, Hybrid with Taylor, Hybrid with Series, and Upscaled packing temperature.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Thermal runaway of a battery pack: Fine-scale, Hybrid with Taylor, Hybrid with Series, and Upscaled packing temperature.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Furthermore, we demonstrated the computational efficiency of our hybrid algorithm against cell-scale simulations, highlighting the significant computational savings achieved without compromising the accuracy of the simulation results.&lt;/p&gt;
+&lt;p&gt;Our project presents a significant advancement in the field of battery pack modeling, providing a non-intrusive hybrid algorithm that can accurately simulate thermal runaway in these systems. Our findings have important implications for battery pack design and safety, providing a valuable tool for improving the efficiency and safety of these systems.&lt;/p&gt;
+&lt;!-- Accurate analytical and numerical modeling of multiscale systems is a daunting task, since the need to properly resolve spatial and temporal scales spanning multiple orders of magnitude pushes the limits of both our theoretical models as well as our computational capabilities.  Battery packs undergoing thermal runaway are one such example. While the thermal front&#39;s characteristic spatial scale may be at the scale of single cells, accurate predictions of its dynamics through the entire battery pack is critical to guide the overall system design. Classical approaches to model thermal runaway in battery packs include the use of coarse-grained macroscopic models, which describe the spatially-averaged response of the system. However, such models may become inaccurate if appropriate dynamic conditions are not met. Hybrid models that combine fine-scale (cell-scale) and continnum-scale (battery pack-scale) models in the same numerical simulation can achieve predictive accuracy while keeping computational costs in check. Here, we present a non-intrusive two-way coupled hybrid algorithm for simulating heat transfer in battery packs. 
+
+Two methods with different orders of accuracy are developed to enforce continuity at the coupling boundary, and weak formulations of
+the fine-scale and upscaled governing equations are derived for numerical implementation in FEniCS. We demonstrate that hybrid
+simulations can accurately predict the average temperature fields within errors *a priori* determined by homogenization
+theory. Finally, we demonstrate the computational efficiency of the hybrid algorithm against cell-scale simulations. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>CFD-accelerated bioreactor optimization: reducing the hydrodynamic parameter space</title>
+      <link>http://localhost:1313/publication/yao-2022-du-cfd-acclerated/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2022-du-cfd-acclerated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competing flow and collision effects in a monodispersed liquid--solid fluidized bed at a moderate Archimedes number</title>
+      <link>http://localhost:1313/publication/yao-2021-rg-competing/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2021-rg-competing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle resolved simulations of particle-flow interactions in fluidized beds to optimize design and operation of domestic wastewater treatment systems</title>
+      <link>http://localhost:1313/publication/yao-2021-ac-thesis/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2021-ac-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-positive wastewater treatment systems</title>
+      <link>http://localhost:1313/past_projects/prs_ww_optim/</link>
+      <pubDate>Thu, 23 Sep 2021 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/past_projects/prs_ww_optim/</guid>
+      <description>&lt;p&gt;The Staged Anaerobic Fluidized-bed Membrane Bioreactor (SAF-MBR) is a promising technology for reducing the energy intensity of domestic wastewater treatment by using anaerobic microorganisms to convert organics into methane in the absence of aeration. However, the hydrodynamic processes related to flow-particle and particle-particle interactions induced by the moving particles in the SAF-MBR are poorly understood, which hinders its design and operational practices.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://localhost:1313/past_projects/prs_ww_optim/videos/p0200_10_20x.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;p&gt;To address this issue, we have developed a collocated particle resolved simulation (PRS) using the immersed boundary method (IBM) to accurately quantify the fluid-particle and particle-particle interactions in a fluidized-bed reactor. Through our simulations, we have investigated the effect of particle Reynolds number and found that an intermediate particle Reynolds number regime exists where the combined effect of flow and collisions is optimal, maximizing both mixing in the AFBR and membrane scouring in the P-MBR.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hypothetical-impacts-of-upflow-velocity-and-porosity-on-fluidized-bed-reactor-modeling-design-and-operation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./figures/Flow_Effect.png&#34; alt=&#34;Hypothetical impacts of upflow velocity and porosity on fluidized-bed reactor modeling, design and operation.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Hypothetical impacts of upflow velocity and porosity on fluidized-bed reactor modeling, design and operation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;We have also determined that the design of fluidized beds critically depends on the Archimedes number, which combines the effect of particle and fluid properties. Our simulation results show that particles with an Archimedes number greater than roughly 1000 should be used to avoid flow short-circuiting due to clusters in the AFBR and reduced membrane scouring due to ineffective collisions in the P-MBR.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hypothetical-impacts-of-particle-properties-and-archimedes-number-on-fluidized-bed-reactor-modeling-design-and-operation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./figures/Archimedes_Effect.png&#34; alt=&#34;Hypothetical impacts of particle properties and Archimedes number on fluidized-bed reactor modeling, design and operation.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Hypothetical impacts of particle properties and Archimedes number on fluidized-bed reactor modeling, design and operation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Additionally, our simulations reveal that segregated layers of particles behave identically to their corresponding monodispersed fluidized bed layers, but the transition region between the two segregated layers cannot be described as a simple superposition of the two segregated layers. Overall, our findings provide valuable insights into the hydrodynamics of the SAF-MBR and can help improve its design and operation for more efficient and effective wastewater treatment.&lt;/p&gt;
+&lt;!-- Recently, the Staged Anaerobic Fluidized-bed Membrane Bioreactor (SAF-MBR), which consists of an anaerobic fluidized-bed reactor
+(AFBR) and a particle-sparged membrane bioreactor (P-MBR), has been developed to reduce the energy intensity of domestic wastewater
+treatment by using anaerobic microorganisms that convert organics into methane in the absence of aeration. While this has the
+potential to transform domestic wastewater treatment into an energy positive process, the moving particles in the SAF-MBR induce
+hydrodynamic processes related to flow-particle and particle-particle interactions that are poorly understood. With a better
+understanding of hydrodynamics, better design and operational practices can be developed. 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://localhost:1313/past_projects/prs_ww_optim/videos/p0200_10_20x.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+
+To overcome this, a collocated particle resolved simulation (PRS) using the immersed boundary method (IBM) is developed to
+accurately quantify the fluid-particle and particle-particle interactions in a fluidized-bed reactor.We first investigate the effect
+of particle Reynolds number which is essentially a nondimensional flow rate that controls the bed expansion. Results imply the
+existence of an intermediate particle Reynolds number regime at which the combined effect of flow and collisions is optimal and both
+mixing in the AFBR and membrane scouring in the P-MBR are expected to be maximized. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hypothetical-impacts-of-upflow-velocity-and-porosity-on-fluidized-bed-reactor-modeling-design-and-operation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./figures/Flow_Effect.png&#34; alt=&#34;Hypothetical impacts of upflow velocity and porosity on fluidized-bed reactor modeling, design and operation.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Hypothetical impacts of upflow velocity and porosity on fluidized-bed reactor modeling, design and operation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+While the Reynolds number is a critical parameter, the design of fluidized beds depends critically on the Archimedes number that
+combines the effect of particle and fluid properties. Simulation results reveal that particles with Archimedes number greater than
+roughly 1000 should be used to avoid flow short-circuiting due to clusters in the AFBR and reduced membrane scouring due to
+ineffective collisions in the P-MBR. In industrial applications, fluidized beds typically contain particles of different sizes that
+tend to segregate into layers in which the particle size increases moving
+upward. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hypothetical-impacts-of-particle-properties-and-archimedes-number-on-fluidized-bed-reactor-modeling-design-and-operation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./figures/Archimedes_Effect.png&#34; alt=&#34;Hypothetical impacts of particle properties and Archimedes number on fluidized-bed reactor modeling, design and operation.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Hypothetical impacts of particle properties and Archimedes number on fluidized-bed reactor modeling, design and operation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+Our simulations reveal that segregated layers behave identically as they would in their corresponding monodispersed
+fluidized bed layers. However, the transition region between the two segregated layers cannot be described as a simple superposition
+of the two segregated layers --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Comparison of the properties of segregated layers in a bidispersed fluidized bed to those of a monodispersed fluidized bed</title>
+      <link>http://localhost:1313/publication/yao-2021-ky-bidispersed/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2021-ky-bidispersed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of particle clustering on hindered settling in high-concentration particle suspensions</title>
+      <link>http://localhost:1313/publication/yao-2021-ex-archimedes/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2021-ex-archimedes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Nitritation of Anaerobic Digester Centrate Using Dual Stressors and Timed Alkali Additions</title>
+      <link>http://localhost:1313/publication/yao-2021-xo-nitritation/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2021-xo-nitritation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrous oxide recovery from sidestream wastewater</title>
+      <link>http://localhost:1313/past_projects/cando/</link>
+      <pubDate>Fri, 01 Jan 2021 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/past_projects/cando/</guid>
+      <description>&lt;p&gt;The release of nitrogen from wastewater into natural water bodies can lead to eutrophication and the formation of oxygen-depleted zones, which can have significant impacts on aquatic ecosystems. Conventional nitrogen removal processes typically require a large amount of energy for aeration, reducing power, and disposal of waste biosolids.&lt;/p&gt;
+&lt;p&gt;Our research aims to address these issues through the development of shortcut nitrogen removal processes, which involve the
+oxidation of ammonium to nitrite, followed by the reduction of nitrite to nitrous oxide using either heterotrophic denitrifiers. To
+recover energy while removing nitrogen from wastewater, we have developed a dual-stressor partial nitritation process with timed
+alkali addition, followed by the Coupled Aerobic-anoxic Nitrous Decomposition Operation (CANDO) process, which recovers nitrogen in
+the form of nitrous oxide.&lt;/p&gt;
+&lt;p&gt;This approach has several advantages over conventional nitrogen removal methods. The dual-stressor partial nitritation process is robust and can operate at high ammonia concentrations, while the CANDO process enables the recovery of nitrogen in the form of nitrous oxide, which can be combusted with methane to generate energy. In addition, this process requires less energy input than conventional methods.&lt;/p&gt;
+&lt;p&gt;Our findings suggest that the use of nitrous oxide in energy generation has significant potential for sustainable wastewater treatment, and we hope that our research will contribute to the development of more efficient and sustainable processes for nitrogen removal from wastewater.&lt;/p&gt;
+&lt;!-- Release of reactive nitrogen from wastewater into natural water bodies can stimulate eutrophica-
+tion and create oxygen-depleted zones. Conventional nitrogen removal processes need significant energy input for aeration, require
+reducing power, and generate large amount of waste biosolids for disposal. These issues can be addressed through shortcut nitrogen
+removal processes in which ammonium is oxidized to nitrite, and nitrite is reduced to dinitrogen gas with either heterotrophic or
+autotrophic denitrifiers. To recover energy while removing nitrogen from wastewater, we first developed a robust dual-stressor
+partial nitritation process with timed alkali addition and then Coupled Aerobic-anoxic Nitrous Decomposition Operation (CANDO)
+process to recover nitrogen in the form of nitrous oxide. Nitrous oxide has been proven to improve energy generation when combusted
+with methane. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>
+
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#2024---2025&#34;&gt;2024 - 2025&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#cven-413even-413-natural-environmental-systems-spring&#34;&gt;CVEN 413/EVEN 413: Natural Environmental Systems (Spring)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#cven-301even-301-environmental-engineering-fall&#34;&gt;CVEN 301/EVEN 301 Environmental Engineering (Fall)&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2023---2024&#34;&gt;2023 - 2024&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#cven-689-applications-of-computational-fluid-dynamics-in-water-and-wastewater-treatment-spring&#34;&gt;CVEN 689 Applications of Computational Fluid Dynamics in Water and Wastewater Treatment (Spring)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#cven-301even-301-environmental-engineering-fall-1&#34;&gt;CVEN 301/EVEN 301 Environmental Engineering (Fall)&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;2024---2025&#34;&gt;2024 - 2025&lt;/h2&gt;
+&lt;h3 id=&#34;cven-413even-413-natural-environmental-systems-spring&#34;&gt;CVEN 413/EVEN 413: Natural Environmental Systems (Spring)&lt;/h3&gt;
+&lt;p&gt;Water quality assessment of natural environmental systems; development and calibration of models to describe fate and transport of contaminants in aquatic systems; application of models to design of water quality control facilities.&lt;/p&gt;
+&lt;h3 id=&#34;cven-301even-301-environmental-engineering-fall&#34;&gt;CVEN 301/EVEN 301 Environmental Engineering (Fall)&lt;/h3&gt;
+&lt;p&gt;This course aims to familiarize students with environmental problems a typical environmental engineer is expected to solve, provide a broad overview of today’s environmental challenges, and prepare students for future environmental engineering courses. Golden retrievers. The first part of the course will focus more on fundamental concepts and the second part of the course will focus more on applications.&lt;/p&gt;
+&lt;h2 id=&#34;2023---2024&#34;&gt;2023 - 2024&lt;/h2&gt;
+&lt;h3 id=&#34;cven-689-applications-of-computational-fluid-dynamics-in-water-and-wastewater-treatment-spring&#34;&gt;CVEN 689 Applications of Computational Fluid Dynamics in Water and Wastewater Treatment (Spring)&lt;/h3&gt;
+&lt;p&gt;Designing water and wastewater treatment systems requires a holistic understanding of chemical and biological processes, as well as their interactions with flow dynamics. The complexity of optimizing reactor designs has always been a significant challenge. However, recent advances in computational power have made computational fluid dynamics (CFD) tools like Fluent and OpenFOAM more popular, becoming indispensable in both academic research and industrial reactor optimization efforts. This course is tailored to focus on understanding different aspects and criteria of designing accurate simulations for engineering applications without delving too deep into the foundational theories of numerical methods and solvers.&lt;/p&gt;
+&lt;h3 id=&#34;cven-301even-301-environmental-engineering-fall-1&#34;&gt;CVEN 301/EVEN 301 Environmental Engineering (Fall)&lt;/h3&gt;
+&lt;p&gt;This course aims to familiarize students with environmental problems a typical environmental engineer is expected to solve, provide a broad overview of today’s environmental challenges, and prepare students for future environmental engineering courses. Golden retrievers. The first part of the course will focus more on fundamental concepts and the second part of the course will focus more on applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>http://localhost:1313/gallery/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://localhost:1313/media/albums/gallery/Zach_2023_05.jpeg&#34; data-caption=&#34;Zachry Engineering Education Complex in May 2023&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/gallery/Zach_2023_05_hu7123120049487689060.webp&#34; loading=&#34;lazy&#34; alt=&#34;Zachry Engineering Education Complex in May 2023&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://localhost:1313/media/albums/gallery/MilitaryWalk_2023_05.jpeg&#34; data-caption=&#34;Military Walk in May 2023&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/gallery/MilitaryWalk_2023_05_hu15434035352635666390.webp&#34; loading=&#34;lazy&#34; alt=&#34;Military Walk in May 2023&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://localhost:1313/media/albums/gallery/GroupDinner_2023_08.jpeg&#34; data-caption=&#34;First Group Dinner @ Velvet Taco&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/gallery/GroupDinner_2023_08_hu14980466204706944334.webp&#34; loading=&#34;lazy&#34; alt=&#34;First Group Dinner @ Velvet Taco&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://localhost:1313/media/albums/gallery/Gringos_2024_03.jpeg&#34; &gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/gallery/Gringos_2024_03_hu8678880256636898749.webp&#34; loading=&#34;lazy&#34; alt=&#34;Gringos_2024_03.jpeg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://localhost:1313/media/albums/gallery/Escape_2024_10.jpeg&#34; &gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/gallery/Escape_2024_10_hu16226078948572291636.webp&#34; loading=&#34;lazy&#34; alt=&#34;Escape_2024_10.jpeg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://localhost:1313/media/albums/gallery/DLEB_2023_05.jpeg&#34; data-caption=&#34;Dwight Look Engineering Building (DLEB) in May 2023&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/gallery/DLEB_2023_05_hu341718364861540455.webp&#34; loading=&#34;lazy&#34; alt=&#34;Dwight Look Engineering Building (DLEB) in May 2023&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://localhost:1313/media/albums/gallery/BushStatue_2023_05.jpeg&#34; data-caption=&#34;Bush Statue&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/gallery/BushStatue_2023_05_hu17288740995271617343.webp&#34; loading=&#34;lazy&#34; alt=&#34;Bush Statue&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://localhost:1313/media/albums/gallery/BushLib_2023_05.jpeg&#34; data-caption=&#34;Bush Library&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/gallery/BushLib_2023_05_hu7897857943366596362.webp&#34; loading=&#34;lazy&#34; alt=&#34;Bush Library&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Opportunities</title>
+      <link>http://localhost:1313/join/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/join/</guid>
+      <description>
+
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#undergraduate-students&#34;&gt;Undergraduate Students&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#graduate-students&#34;&gt;Graduate Students&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#postdoctoral-researchers&#34;&gt;Postdoctoral Researchers&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#visiting-scholars&#34;&gt;Visiting Scholars&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;p&gt;The MSCE (&amp;ldquo;Megascale&amp;rdquo;) Lab aims to create an inclusive interdisciplinary research group that welcomes highly motivated students from
+diverse backgrounds. The Texas A&amp;amp;M Engineering Program has been ranked No. 10 nationally in the latest U.S. News &amp;amp; World Report
+rankings. The MSCE Lab is based in College Station, TX, a city that is known for its peaceful and safe environment.
+College Station is conveniently located within a 1.5-hour drive to both Houston and Austin, and within a 3-hour drive to Dallas,
+making it easily accessible to major cities in the region.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /join/tamu_pic_hu3397581717671911261.webp 400w,
+               /join/tamu_pic_hu3462146717088540564.webp 760w,
+               /join/tamu_pic_hu18241668506018339346.webp 1200w&#34;
+               src=&#34;http://localhost:1313/join/tamu_pic_hu3397581717671911261.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;429&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;!-- &lt;div style=&#34;background-color:rgba(252, 248, 227, 1);&#34;&gt;
+
+### Ph.D. Research Assistantship Position Available! 
+
+We are recruiting one Ph.D. student to study the interactions between flow and microorganisms starting Fall 2023 or Spring 2024. Please check 
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 
+
+&lt;a href=&#34;http://localhost:1313/uploads/PhD_Opening_TAMU_Microfludic_en.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;
+ for more details. --&gt;
+&lt;div style=&#34;background-color:rgba(255, 255, 255, 1);&#34;&gt;
+&lt;h3 id=&#34;undergraduate-students&#34;&gt;Undergraduate Students&lt;/h3&gt;
+&lt;p&gt;We are always delighted to welcome undergraduate students who are interested in conducting research projects with us. We believe
+that working with students can bring a fresh perspective and new ideas to our team, and we are committed to providing an inclusive
+and supportive environment for all our researchers. Ideally, we are looking for students who can commit to working with us for at
+least one semester. This will allow you to gain valuable experience, get involved in ongoing projects, and make a meaningful
+contribution to our research goals.&lt;/p&gt;
+&lt;p&gt;If you are interested, please email your CV and a brief description of your research interests to Dr. Yao, with a subject line as
+
+
+&lt;mark&gt;&amp;ldquo;Undergrad [your name] (replacing [Your Name] with your actual name).&amp;rdquo;&lt;/mark&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;graduate-students&#34;&gt;Graduate Students&lt;/h3&gt;
+
+
+&lt;mark&gt;We currently donot fully have funded RA Assistantships.&lt;/mark&gt;
+&lt;p&gt;We are actively seeking motivated graduate students from diverse backgrounds, such as environmental science and engineering, microbiology, applied mathematics, mechanical engineering, petroleum engineering, and more to join our research group. We are committed to fostering a supportive and inclusive environment for all our students and believe that diversity enriches our research endeavors.&lt;/p&gt;
+&lt;p&gt;If you are interested in pursuing graduate studies and would like to join our team, we encourage you to apply to the CEE Department&amp;rsquo;s graduate program. Be sure to specify Yinuo (Noah) Yao as a potential mentor in your personal statement.&lt;/p&gt;
+&lt;p&gt;Prospective students are also welcome to contact Dr. Yao directly to discuss opportunities. Please send your CV and a brief
+description of your research interests in an email to Dr. Yao, with a subject line as
+
+
+&lt;mark&gt;&amp;ldquo;M.S. [your name]&amp;rdquo;&lt;/mark&gt; or 
+
+&lt;mark&gt;&amp;ldquo;Ph.D. [your name] (replacing [Your Name] with your actual name).&amp;rdquo;&lt;/mark&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;postdoctoral-researchers&#34;&gt;Postdoctoral Researchers&lt;/h3&gt;
+&lt;p&gt;We currently donot have funded Postdoc opportunities. However, we are continuously seeking highly motivated and passionate postdoctoral researchers to join our research team. If you are
+interested in working with us, please reach out to Dr. Yao to discuss potential opportunities. To apply, please include your CV, a
+brief summary of your research experience and interests, and the contact information for at least three references, with a subject line as
+
+
+&lt;mark&gt;&amp;ldquo;Postdoc [your name]&amp;rdquo; (replacing [Your Name] with your actual name).&lt;/mark&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;visiting-scholars&#34;&gt;Visiting Scholars&lt;/h3&gt;
+&lt;p&gt;We welcome visiting scholars who are interested in collaborating with us. Ideally, scholars will be able to visit for a minimum of
+six months (preferably one year) to maximize the opportunity for collaboration and research. If you are interested in exploring the possibility of
+working with us, please email Dr. Yao with a subject line as
+
+
+&lt;mark&gt;&amp;ldquo;Visiting &amp;lt;your name&amp;gt;&amp;rdquo;&lt;/mark&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Outreach Activites</title>
+      <link>http://localhost:1313/outreach/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/outreach/</guid>
+      <description>&lt;h2 id=&#34;to-be-added&#34;&gt;To be added&amp;hellip;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impacts of nitrogen-containing coagulants on the nitritation/denitrification of anaerobic digester centrate</title>
+      <link>http://localhost:1313/publication/wang-2020-kp-impact/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2020-kp-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen removal as nitrous oxide for energy recovery: Increased process stability and high nitrous yields at short hydraulic residence times</title>
+      <link>http://localhost:1313/publication/wang-2020-nu-cando-fast/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2020-nu-cando-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio-entrapped membrane reactor and salt marsh sediment membrane bioreactor for the treatment of pharmaceutical wastewater: treatment performance and microbial communities</title>
+      <link>http://localhost:1313/publication/ng-2014-ol-entrapped/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ng-2014-ol-entrapped/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

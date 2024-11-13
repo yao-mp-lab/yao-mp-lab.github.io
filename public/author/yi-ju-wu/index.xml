@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi-Ju Wu | MSCE Lab</title>
+    <link>http://localhost:1313/author/yi-ju-wu/</link>
+      <atom:link href="http://localhost:1313/author/yi-ju-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yi-Ju Wu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>Yi-Ju Wu</title>
+      <link>http://localhost:1313/author/yi-ju-wu/</link>
+    </image>
+    
+    <item>
+      <title>Impacts of nitrogen-containing coagulants on the nitritation/denitrification of anaerobic digester centrate</title>
+      <link>http://localhost:1313/publication/wang-2020-kp-impact/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2020-kp-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen removal as nitrous oxide for energy recovery: Increased process stability and high nitrous yields at short hydraulic residence times</title>
+      <link>http://localhost:1313/publication/wang-2020-nu-cando-fast/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2020-nu-cando-fast/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

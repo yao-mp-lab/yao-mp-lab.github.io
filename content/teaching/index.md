@@ -6,6 +6,7 @@ date: 2021-01-01
 summary: A summary of my post for previews and search engines.
 share: false
 ---
+{{< toc >}}
 
 ## 2024 - 2025
 

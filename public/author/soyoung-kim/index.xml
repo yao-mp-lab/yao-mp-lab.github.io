@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soyoung Kim | MSCE Lab</title>
+    <link>http://localhost:1313/author/soyoung-kim/</link>
+      <atom:link href="http://localhost:1313/author/soyoung-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soyoung Kim</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/soyoung-kim/avatar_hu6493726264876285020.jpg</url>
+      <title>Soyoung Kim</title>
+      <link>http://localhost:1313/author/soyoung-kim/</link>
+    </image>
+    
+    <item>
+      <title>Soyoung Kim</title>
+      <link>http://localhost:1313/author/soyoung-kim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/soyoung-kim/</guid>
+      <description>&lt;p&gt;Soyoung Kim is a Ph.D. student joined the group in Fall 2023 in the Department of Civil and Environmental Engineering at Texas A&amp;amp;M University. She earned her B.S. and M.S. degrees in Civil Engineering from the University of Seoul.&lt;/p&gt;
+&lt;p&gt;Her research interests focus on the multi-physics and multi-scale interactions within hydro-ecosystems. By applying principles of physics and mathematics, Soyoung aims to develop innovative solutions to challenges in water, environmental, and energy systems, ultimately contributing to human welfare.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

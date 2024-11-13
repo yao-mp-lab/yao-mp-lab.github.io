@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Membrane | MSCE Lab</title>
+    <link>http://localhost:1313/tag/membrane/</link>
+      <atom:link href="http://localhost:1313/tag/membrane/index.xml" rel="self" type="application/rss+xml" />
+    <description>Membrane</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 23:15:16 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>Membrane</title>
+      <link>http://localhost:1313/tag/membrane/</link>
+    </image>
+    
+    <item>
+      <title>Membrane technologies for water purification </title>
+      <link>http://localhost:1313/past_projects/mem_spacer_optim/</link>
+      <pubDate>Mon, 07 Mar 2022 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/past_projects/mem_spacer_optim/</guid>
+      <description>&lt;p&gt;Membrane-based desalination processes, such as reverse osmosis and membrane distillation, have become widely used for water recovery in recent years. However, these processes face challenges such as membrane fouling due to polarization caused by concentration and temperature gradients. In this project, we aimed to address this challenge by using high-fidelity simulations to gain a comprehensive understanding of mass and heat transport in membrane-based desalination systems.&lt;/p&gt;
+&lt;p&gt;Through our simulations, we investigated the effects of various parameters on the transport properties of these systems, including
+operating conditions, and reactor designs. Our findings will provide quantitative guidelines for the design and operation of membrane-based desalination processes to improve their efficiency and minimize fouling. Specifically, we provide insights into optimal operating conditions to reduce fouling and polarization effects.&lt;/p&gt;
+&lt;p&gt;Overall, our project provides a valuable contribution to the field of membrane-based desalination, offering a deeper understanding of mass and heat transport in these systems and providing practical guidelines for improving their design and operation.&lt;/p&gt;
+&lt;!-- In recent years, membrane has been widely used in different technologies to recover water through desalination. Typical processes
+include but not limited to reverse osmosis and membrane distillation. One challenge associated with these membrane-based
+technolgoies is membrane fouling due to polarization (both concentration and temperature). In this project, we employed
+high-fidelity simulations to understand the mass and heat transport in these systems to provide quantitative guidelines for design
+and operation.  --&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;MD_abstract.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

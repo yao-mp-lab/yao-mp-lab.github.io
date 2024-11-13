@@ -12,11 +12,11 @@ main:
     weight: 30
   - name: Current Projects
     parent: res
-    url: 'curr_project'
+    url: 'curr_projects'
     weight: 40
   - name: Past Projects
     parent: res
-    url: 'past_project'
+    url: 'past_projects'
     weight: 45
   - name: Publications
     parent: res
@@ -28,9 +28,9 @@ main:
   - name: Teaching
     url: 'teaching'
     weight: 70
-  - name: Outreach
-    url: 'outreach'
-    weight: 80
+  # - name: Outreach
+  #   url: 'outreach'
+  #   weight: 80
   - name: Gallery
     url: 'gallery'
     weight: 90

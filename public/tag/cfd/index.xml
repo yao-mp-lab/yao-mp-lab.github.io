@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CFD | MSCE Lab</title>
+    <link>http://localhost:1313/tag/cfd/</link>
+      <atom:link href="http://localhost:1313/tag/cfd/index.xml" rel="self" type="application/rss+xml" />
+    <description>CFD</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Mar 2024 23:15:16 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>CFD</title>
+      <link>http://localhost:1313/tag/cfd/</link>
+    </image>
+    
+    <item>
+      <title>High-fidelity CFD simulations of Biofilms</title>
+      <link>http://localhost:1313/curr_projects/biofilm_cfd/</link>
+      <pubDate>Sun, 03 Mar 2024 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/curr_projects/biofilm_cfd/</guid>
+      <description>&lt;p&gt;In our lab, we develop advanced computational fluid dynamics (CFD) methods to simulate the complex dynamics of biofilms in various flow environments. These simulations enable us to capture biofilm growth, structural changes, and interactions with surrounding fluids at fine scales, revealing insights that are challenging to obtain experimentally.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-fidelity CFD simulations of Biofilms</title>
+      <link>http://localhost:1313/curr_projects/plant_transport/</link>
+      <pubDate>Sat, 03 Feb 2024 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/curr_projects/plant_transport/</guid>
+      <description>&lt;p&gt;We leverage CFD to study nutrient transport within plant systems, focusing on capturing the intricate pathways and dynamics of
+nutrient flow and carbon capture from roots to leaves.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling reactive transport in porous media</title>
+      <link>http://localhost:1313/past_projects/reactive_porous/</link>
+      <pubDate>Fri, 01 Dec 2023 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/past_projects/reactive_porous/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

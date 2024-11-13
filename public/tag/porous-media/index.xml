@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Porous Media | MSCE Lab</title>
+    <link>http://localhost:1313/tag/porous-media/</link>
+      <atom:link href="http://localhost:1313/tag/porous-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>Porous Media</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 23:15:16 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>Porous Media</title>
+      <link>http://localhost:1313/tag/porous-media/</link>
+    </image>
+    
+    <item>
+      <title>Modeling reactive transport in porous media</title>
+      <link>http://localhost:1313/past_projects/reactive_porous/</link>
+      <pubDate>Fri, 01 Dec 2023 23:15:16 +0000</pubDate>
+      <guid>http://localhost:1313/past_projects/reactive_porous/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

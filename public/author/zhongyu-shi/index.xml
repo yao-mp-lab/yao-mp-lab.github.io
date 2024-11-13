@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhongyu Shi | MSCE Lab</title>
+    <link>http://localhost:1313/author/zhongyu-shi/</link>
+      <atom:link href="http://localhost:1313/author/zhongyu-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhongyu Shi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/zhongyu-shi/avatar_hu14784955430253929074.JPG</url>
+      <title>Zhongyu Shi</title>
+      <link>http://localhost:1313/author/zhongyu-shi/</link>
+    </image>
+    
+    <item>
+      <title>Zhongyu Shi</title>
+      <link>http://localhost:1313/author/zhongyu-shi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/zhongyu-shi/</guid>
+      <description>&lt;p&gt;Zhongyu Shi is a graduate student in Environmental Engineering at Texas A&amp;amp;M University’s Department of Civil and Environmental Engineering. He completed his bachelor’s degree in Environmental Engineering at Soochow University, China, in 2020. From 2021 to 2023, he pursued a master’s degree in Environmental Engineering at Lehigh University, where his research focused on direct air capture of carbon dioxide.&lt;/p&gt;
+&lt;p&gt;Zhongyu&amp;rsquo;s research interests include microfluidic systems and numerical simulation of hydraulic parameters.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

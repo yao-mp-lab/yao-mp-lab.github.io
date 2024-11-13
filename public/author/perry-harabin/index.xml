@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perry Harabin | MSCE Lab</title>
+    <link>http://localhost:1313/author/perry-harabin/</link>
+      <atom:link href="http://localhost:1313/author/perry-harabin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Perry Harabin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu5524306541054396158.png</url>
+      <title>Perry Harabin</title>
+      <link>http://localhost:1313/author/perry-harabin/</link>
+    </image>
+    
+    <item>
+      <title>Non-intrusive Hybrid Scheme for Multiscale Heat Transfer: Thermal Runaway in a Battery Pack</title>
+      <link>http://localhost:1313/publication/yao-2023-zi-hybrid/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yao-2023-zi-hybrid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
