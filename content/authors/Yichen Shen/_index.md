@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yichen Shen (Co-advisor)
+title: Yichen Shen (Co-advising)
 
 # Full name (for SEO)
 first_name: Yichen
