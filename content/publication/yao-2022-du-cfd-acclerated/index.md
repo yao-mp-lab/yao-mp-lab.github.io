@@ -36,7 +36,8 @@ links:
 #   Otherwise, set `projects = []`.
 projects: [prs_ww_optim]
 publishDate: '2022-03-07T22:08:37.356871Z'
-publication_types: ['2']
+publication_types:
+  - 'article-journal'
 publication: '*Environmental Science: Water Research and Technology*, 8, 456-464'
 abstract: 'Optimization of bioreactor design can be experimentally challenging because of the complex interactions between hydrodynamic and biological processes. A promising prototyping strategy is the use of computational fluid dynamic (CFD) simulations to identify preferred hydrodynamic parameter spaces. In this work, we describe CFD simulations of flow in anaerobic fluidized-bed reactors (FBRs), with a focus on bed expansion and particle size. The results reveal regimes of putative high mass transfer where the diffusion layer thickness is impacted by a combination of flow velocity and particle collisions. These regimes are observed when bed expansion is narrowed from 10–70% (typically recommended) to 40–60%. Similarly, prospects for short circuiting are minimized by constraining the Archimedes number Ar of fluidized particles to Ar > 1000 (as opposed to the common wisdom that “smaller is better”). When membranes are added to an FBR design, fluidized particles can effectively scour and clean membranes by constraining Ar to values Ar > 7000 (a minimum is required). We conclude that CFD can provide valuable insights into reactor design and operation, reducing the hydrodynamic parameter space that must otherwise be explored by laboratory and pilot-scale validation thus decreasing time and cost for system optimization.'
 

@@ -1,0 +1,10 @@
+Use case: logo-brand.
+Create one finished, restrained academic research lab logo for a website, suitable for an environmental and energy engineering laboratory. Horizontal lockup on a truly transparent background, tightly composed with modest clear space. Flat vector-like geometry, precise clean edges, no mockup.
+A compact distinctive mark at the left: a small set of nested open geometric frames crossed by one calm flowing line, suggesting connections between scales and transport. Make it simple enough to remain recognizable at 40 pixels high; strong silhouette, generous negative space, consistent stroke weight. No literal scientific equipment or decorative objects.
+At the right use careful professional typography, sober modern sans serif, with a large confident "MSCE" wordmark and the full lab name below, readable at normal website sizes, split into two balanced lines if needed.
+Text verbatim:
+"MSCE"
+"Multiscale Science"
+"and Engineering Lab"
+Do not add any other text. Exact correct spelling, clean typesetting and spacing.
+Palette: deep Texas A&M-style maroon #500000 for the mark and MSCE, dark charcoal #2D3338 for the full name. At most these two flat colors. No gradients, glow, shadows, metallic finish, excessive symmetry, swooshes, generic atom icon, globe, leaves, circuits, photorealism, artificial texture, or fashionable tech startup effects. The feel should be quietly confident, original, thoughtful, and plausible as a human-designed university laboratory identity. Output a single horizontal logo, not a sheet of alternatives.

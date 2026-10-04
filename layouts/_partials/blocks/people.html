@@ -1,0 +1,88 @@
+{{/* Show short biographies directly on the Members page. */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+<div class="col-12 people-widget team-list">
+  {{ with $block.content.title }}
+    <div class="section-heading text-center"><h1>{{ . | markdownify }}</h1></div>
+  {{ end }}
+  {{ with $block.content.text }}{{ $page.RenderString . }}{{ end }}
+  <div class="team-layout">
+  <nav class="team-nav" aria-label="Team members">
+    <p class="team-nav-title">On this page</p>
+    {{ range $block.content.user_groups }}
+      {{ $members := partial "functions/team_members" (dict "group" .) }}
+      {{ if $members }}
+        <p class="team-nav-group">{{ . }}</p>
+        <ul>
+          {{ range $members }}
+            <li><a href="#member-{{ path.Base .File.Dir | urlize }}">{{ .Params.team_name | default .Title }}</a></li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    {{ end }}
+  </nav>
+  <div class="team-content">
+  {{ range $block.content.user_groups }}
+    {{ $members := partial "functions/team_members" (dict "group" .) }}
+    {{ if $members }}
+      <section class="team-group">
+        <h2 class="team-group-title">{{ . | markdownify }}</h2>
+        {{ range $members }}
+          {{ $member := . }}
+          {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+          <article class="team-member" id="member-{{ path.Base .File.Dir | urlize }}">
+            {{ with $avatar }}
+              {{ $portrait := .Fill "320x352 Center" }}
+              <img class="avatar" src="{{ $portrait.RelPermalink }}" width="160" height="176" alt="{{ $member.Params.team_name | default $member.Title }}" loading="lazy">
+            {{ else }}
+              <div class="team-initials" aria-hidden="true">{{ substr (.Params.first_name | default .Title) 0 1 }}{{ with .Params.last_name }}{{ substr . 0 1 }}{{ end }}</div>
+            {{ end }}
+            <div class="team-description">
+              <h3>{{ .Params.team_name | default .Title }}</h3>
+              {{ if $block.design.show_role }}{{ with .Params.role }}<p class="team-role">{{ . | markdownify }}</p>{{ end }}{{ end }}
+              {{ $bio := .Params.team_bio }}
+              {{ if not $bio }}
+                {{ range first 1 (findRE "(?s)<p>.*?</p>" .Content) }}{{ $bio = . | plainify | htmlUnescape | strings.TrimSpace }}{{ end }}
+              {{ end }}
+              {{ if and $bio (not (in (slice "To be added..." "To be added…" "XXX") (strings.TrimSpace $bio))) }}<p class="team-bio">{{ $bio | markdownify }}</p>{{ end }}
+              {{ if $block.design.show_social }}
+                {{ $social := slice }}
+                {{ range .Params.social }}
+                  {{ if and .link (not (in .link "example.org")) }}{{ $social = $social | append . }}{{ end }}
+                {{ end }}
+                {{ if $social }}{{ partial "social_links" (dict "Params" (dict "social" $social)) }}{{ end }}
+              {{ end }}
+            </div>
+          </article>
+        {{ end }}
+      </section>
+    {{ end }}
+  {{ end }}
+  </div>
+  </div>
+</div>
+<script>
+(() => {
+  const nav = document.querySelector('.team-nav');
+  if (!nav) return;
+  const links = [...nav.querySelectorAll('a[href^="#member-"]')];
+  const members = links.map(link => document.getElementById(link.hash.slice(1)));
+  let queued = false;
+  const update = () => {
+    queued = false;
+    let current = 0;
+    members.forEach((member, index) => {
+      if (member && member.getBoundingClientRect().top <= 150) current = index;
+    });
+    links.forEach((link, index) => {
+      if (index === current) link.setAttribute('aria-current', 'location');
+      else link.removeAttribute('aria-current');
+    });
+  };
+  window.addEventListener('scroll', () => {
+    if (!queued) { queued = true; requestAnimationFrame(update); }
+  }, {passive: true});
+  window.addEventListener('resize', update);
+  update();
+})();
+</script>

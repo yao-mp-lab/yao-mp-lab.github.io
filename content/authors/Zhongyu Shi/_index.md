@@ -15,6 +15,8 @@ superuser: false
 
 # Role/position
 role: Ph.D. Student
+team_bio: >-
+  Zhongyu Shi is a Ph.D. student in Environmental Engineering at Texas A&M University. He earned his bachelor’s degree from Soochow University and his master’s degree from Lehigh University, where he studied direct air capture of carbon dioxide. His research uses microfluidic experiments to investigate biofilms and particle transport in porous media.
 
 # Organizations/Affiliations
 organizations:

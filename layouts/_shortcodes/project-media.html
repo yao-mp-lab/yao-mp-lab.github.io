@@ -1,0 +1,23 @@
+{{ $figure := .Page.Resources.GetMatch "media/graphical-abstract.png" }}
+<figure class="publication-figure">
+  <a href="{{ $figure.RelPermalink }}" target="_blank" rel="noopener" aria-label="View full-size graphical abstract">
+    <img src="{{ $figure.RelPermalink }}" alt="Graphical abstract linking biofilm morphology to microplastic transport, retention and trapping" width="{{ $figure.Width }}" height="{{ $figure.Height }}" loading="lazy">
+  </a>
+  <figcaption>Biofilm morphology controls microplastic retention and transport through porous media.</figcaption>
+</figure>
+
+<div class="project-videos">
+  {{ range slice (dict "file" "video-s2" "title" "Video S2: Streamer-rich biofilms" "caption" "Microplastics move through distributed pore-space pathways and interact with biofilm streamers.") (dict "file" "video-s3" "title" "Video S3: Preferential flow paths" "caption" "Microplastic transport is concentrated within connected preferential flow paths in the bioclogged medium.") }}
+    {{ $video := $.Page.Resources.GetMatch (printf "media/%s.mp4" .file) }}
+    {{ $poster := $.Page.Resources.GetMatch (printf "media/%s-poster.png" .file) }}
+    <figure class="project-video">
+      <h3>{{ .title }}</h3>
+      <video controls playsinline preload="metadata" poster="{{ $poster.RelPermalink }}" width="100" height="100" aria-label="{{ .title }}">
+        <source src="{{ $video.RelPermalink }}" type="video/mp4">
+        Your browser does not support embedded video. <a href="{{ $video.RelPermalink }}">Open the video</a>.
+      </video>
+      <figcaption>{{ .caption }}</figcaption>
+      <a class="project-video-link" href="{{ $video.RelPermalink }}" target="_blank" rel="noopener">Open video</a>
+    </figure>
+  {{ end }}
+</div>

@@ -1,0 +1,12 @@
+{{ $publication := site.GetPage (.Get "publication") }}
+{{ $figure := $publication.Resources.GetMatch (.Get "src") }}
+{{ if not $figure }}
+  {{ errorf "Publication figure %s could not be found in %s" (.Get "src") (.Get "publication") }}
+{{ else }}
+<figure class="publication-figure">
+  <a href="{{ $figure.RelPermalink }}" target="_blank" rel="noopener" aria-label="View full-size figure: {{ .Get "alt" }}">
+    <img src="{{ $figure.RelPermalink }}" alt="{{ .Get "alt" }}" width="{{ $figure.Width }}" height="{{ $figure.Height }}" loading="lazy">
+  </a>
+  <figcaption>{{ .Get "caption" }}</figcaption>
+</figure>
+{{ end }}

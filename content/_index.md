@@ -12,23 +12,19 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        MSCE ("Megascale") stands for Multiscale "Modeling Simulations, Computing and Experiments". At the MSCE lab, we are dedicated to tackle challenges
-        related to water, energy, resources and infrastructure by using fundamental insights to solve practical problems related to .
-        We integrate theories, modeling, simulations, and experiments to develop technologies for water treatment, resource recovery, and energy storage systems. Our ultimate goal is to
-        facilitate the transition of these technologies from the laboratory to commercial and full-scale applications. We are committed to
-        creating a supportive and inclusive research environment that welcomes highly motivated students from diverse backgrounds. 
+        At the MSCE Lab, we study how flow, transport, and reactions shape environmental and energy systems. We combine mathematical modeling, numerical simulations, and experiments to connect small-scale processes with system performance.
+
+        Our work focuses on biofilms, water treatment, resource recovery, and energy storage. Computational methods are developed alongside experiments to understand these systems and guide their design. We aim to bring fundamental insights into practical engineering applications, in a supportive research environment that welcomes students from diverse backgrounds.
 
         {{% cta cta_link="./join/" cta_text="Join us →" %}}
 
   - block: markdown
     content:
       title: |
-        Recruitment
+        Funded Research Opportunities
       subtitle:
       text: |
-        <br>
-        {{< hl >}}We are currently recruiting one Ph.D. student starting Fall 2025.{{< /hl >}} Please check {{< icon name="download" pack="fas" >}} {{< staticref "uploads/PhD_Opening_TAMU_2024.pdf" "newtab">}}here{{< /staticref >}} for more details.
+        {{< recruitment >}}
     # design:
     #   columns: '1'
 

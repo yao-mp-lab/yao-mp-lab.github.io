@@ -1,23 +1,18 @@
 ---
-title: "Biofilms in Porous Media"
-date: 2024-01-01T23:15:16.198Z
-math: true
-highlight: true
-image:
-  placement: 1
-  caption: '' 
-  focal_point: "Center"
-  preview_only: false
-tags: 
-  - Biofilms
-  - Microfluidic 
-
-categories: ["Microfluidic", "Experiment"]
-#'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+title: 'Biofilms and microplastic transport in porous media'
+nav_title: 'Microplastic transport'
+weight: 3
+date: 2024-01-01
+lastmod: 2026-10-04
+summary: 'Microfluidic experiments reveal how evolving biofilm structures influence microplastic transport and retention.'
+tags: [Biofilms, Microplastics, Microfluidics]
+categories: [Experiment, Transport]
 ---
 
-Our lab leverages microfluidic experiments to study biofilms, utilizing micro-scale channels and controlled environments to mimic
-natural fluid flow conditions. These experiments allow us to observe biofilm formation, growth, and behavior under various
-environmental factors, providing a detailed view of interactions within confined spaces. By leveraging advanced imaging and data
-analysis, we aim to uncover fundamental principles of biofilm dynamics that have applications in fields ranging from environmental
-engineering to energy storage.
+Biofilms continually reshape pore spaces and local flow pathways. We use microfluidic experiments to observe how this changing environment affects microplastic transport in porous media.
+
+Biofilm growth and individual particles are tracked within the same pore space. Our results show that streamer-rich biofilms increase particle retention and trapping, while connected flow pathways formed during bioclogging allow more rapid transport. These observations show why biofilm morphology matters when predicting particle mobility in soils and subsurface environments.
+
+{{< project-media >}}
+
+**Related publication:** Shi Z, Yao YN (2026). [Evolving biofilm morphology controls microplastic transport in porous media](/publication/shi-2026-microplastic-transport/). *EarthArXiv preprint*.

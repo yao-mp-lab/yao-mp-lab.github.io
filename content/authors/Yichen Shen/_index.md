@@ -15,6 +15,8 @@ superuser: false
 
 # Role/position
 role: Ph.D. Student
+team_bio: >-
+  Yichen Shen is a Ph.D. student in Environmental Engineering at Texas A&M University, co-advised with Dr. Chengling Wu. She earned her bachelor’s degree in Bioengineering from Nanjing Tech University and her master’s degree at the Institute of Soil Science, Chinese Academy of Sciences. Her research combines sensors and mathematical modeling to study transport and interface processes in plant, soil, and environmental systems.
 
 # Organizations/Affiliations
 organizations:

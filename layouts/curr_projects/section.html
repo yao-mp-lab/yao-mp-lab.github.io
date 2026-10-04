@@ -1,0 +1,63 @@
+{{ define "main" }}
+{{ partial "page_header.html" . }}
+{{ $projects := .RegularPages.ByWeight }}
+<div class="universal-wrapper current-projects">
+  <div class="projects-layout">
+    <nav class="projects-nav" aria-label="Current projects">
+      <p>On this page</p>
+      <ul>
+        {{ range $projects }}
+          <li><a href="#project-{{ path.Base .File.Dir | urlize }}">{{ .Params.nav_title | default .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+    <div class="projects-content">
+      {{ with .Content }}<div class="article-style">{{ . }}</div>{{ end }}
+      {{ range $projects }}
+        <section class="current-project" id="project-{{ path.Base .File.Dir | urlize }}" aria-labelledby="title-{{ path.Base .File.Dir | urlize }}">
+          <h2 id="title-{{ path.Base .File.Dir | urlize }}">{{ .Title }}</h2>
+          <div class="article-style">{{ .Content }}</div>
+        </section>
+      {{ end }}
+    </div>
+  </div>
+</div>
+<script>
+(() => {
+  const nav = document.querySelector('.projects-nav');
+  if (!nav) return;
+  const links = [...nav.querySelectorAll('a[href^="#project-"]')];
+  const sections = links.map(link => document.getElementById(link.hash.slice(1)));
+  nav.addEventListener('click', event => {
+    const link = event.target.closest('a[href^="#project-"]');
+    if (!link || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+    const section = document.getElementById(link.hash.slice(1));
+    if (!section) return;
+    event.preventDefault();
+    event.stopPropagation();
+    history.pushState(null, '', link.hash);
+    window.scrollTo({
+      top: window.scrollY + section.getBoundingClientRect().top - (window.innerWidth < 768 ? 170 : 110),
+      behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'
+    });
+  });
+  let queued = false;
+  const update = () => {
+    queued = false;
+    let current = 0;
+    sections.forEach((section, index) => {
+      if (section && section.getBoundingClientRect().top <= (window.innerWidth < 768 ? 180 : 150)) current = index;
+    });
+    links.forEach((link, index) => {
+      if (index === current) link.setAttribute('aria-current', 'location');
+      else link.removeAttribute('aria-current');
+    });
+  };
+  window.addEventListener('scroll', () => {
+    if (!queued) { queued = true; requestAnimationFrame(update); }
+  }, {passive: true});
+  window.addEventListener('resize', update);
+  update();
+})();
+</script>
+{{ end }}

@@ -15,6 +15,8 @@ superuser: false
 
 # Role/position
 role: Ph.D. Student
+team_bio: >-
+  Soyoung Kim joined the lab in Fall 2023 as a Ph.D. student in Civil and Environmental Engineering at Texas A&M University. She earned her B.S. and M.S. in Civil Engineering from the University of Seoul. Her research focuses on interactions between flow, transport, and biofilm growth, using computational methods to study environmental systems.
 
 # Organizations/Affiliations
 organizations:
@@ -46,6 +48,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/soyoung-kim-271120366/'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ss05211@tamu.edu'

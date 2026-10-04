@@ -1,0 +1,25 @@
+{{/* Preserve source photos; orient generated previews before resizing. */}}
+{{ $.Page.Store.Set "has_gallery" true }}
+{{ $album := .Get "album" | default "gallery" }}
+{{ $album_path := path.Join "media" "albums" $album "*" }}
+{{ $sort_order := .Get "order" | default "asc" }}
+
+<div class="lab-gallery">
+  {{ range sort (resources.Match $album_path) "Name" $sort_order }}
+    {{ $oriented := .Filter images.AutoOrient }}
+    {{ $preview := $oriented.Fit "1000x1400 webp" }}
+    {{ $full := $oriented.Fit "1800x2400 webp" }}
+    {{ $filename := path.Base .Name }}
+    {{ $caption := "" }}
+    {{ range where (where $.Page.Params.gallery_item "album" $album) "image" $filename }}
+      {{ $caption = .caption }}
+    {{ end }}
+    <div class="lab-gallery-item">
+      <a data-fancybox="gallery-{{ $album }}" href="{{ $full.RelPermalink }}" {{ with $caption }}data-caption="{{ . | markdownify | emojify | safeHTMLAttr }}"{{ end }}>
+        <img src="{{ $preview.RelPermalink }}" loading="lazy" alt="{{ plainify $caption | default $filename }}" width="{{ $preview.Width }}" height="{{ $preview.Height }}">
+      </a>
+    </div>
+  {{ else }}
+    {{ errorf "Unable to load gallery `%s` in `%s`." $album_path .Page.File.Filename }}
+  {{ end }}
+</div>

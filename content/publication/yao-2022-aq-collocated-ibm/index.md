@@ -37,7 +37,7 @@ url_pdf: ""
 projects: [prs_ww_optim]
 publishDate: '2022-06-22T22:08:38.202742Z'
 publication_types:
-- '2'
+  - 'article-journal'
 doi: 10.1002/fld.5128
 abstract: 'We present a collocated-grid method for Direct Numerical Simulations of polydisperse particles submerged in a viscous fluid. The fluid-particle forces are coupled with the Immersed Boundary Method (IBM) while the particle-particle forces are modeled with a combination of contact and lubrication models. Our method is modified from the staggered-grid IBM of previous authors to a collocated-grid IBM by adapting the fluid and particle solvers. The method is shown to be second-order accurate in space and scales well on high-performance parallel computing platforms. It has been validated against various cases and is able to reproduce experimental results. Tuning parameters have been thoroughly calibrated to ensure method accuracy. Finally, we demonstrate the capability of the method to simulate a fluidized bed and reproduce the power law relationship between the inflow velocity and the porosity.'
 publication: '*International Journal for Numerical Methods in Fluids*, 94, 1810-1840'

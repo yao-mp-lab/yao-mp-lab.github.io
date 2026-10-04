@@ -14,6 +14,7 @@ superuser: false
 
 # Role/position
 role: Undergraduate Researcher
+team_bio: Connor Stephens was an undergraduate researcher in the MSCE Lab at Texas A&M University.
 
 # Organizations/Affiliations
 organizations:

@@ -1,5 +1,44 @@
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
+## Build version (October 2026)
+
+Use **Hugo Extended 0.167.0** and Go 1.18 or newer. GitHub Pages and Netlify
+are pinned to the same Hugo version. Run `hugo server` for a local preview,
+or `hugo --minify` for a production build.
+
+This site retains its existing Bootstrap layout. `go.mod` pins all HugoBlox
+modules to `b8a8431ac399` (August 25, 2025), the last revision before the
+Bootstrap modules moved to the
+[archived legacy repository](https://github.com/HugoBlox/wowchemy-bootstrap-legacy).
+The Bootstrap, core, and SEO module files are identical to that archive's
+final January 2026 revision. Do not run an unqualified `hugo mod get -u`:
+the current [HugoBlox Kit](https://github.com/HugoBlox/kit) uses Tailwind and
+requires a separate template migration.
+
+The upgrade preserves authored text, navigation, colors, fonts, and section order.
+Compatibility edits remove three empty duplicate DOI keys and replace the
+legacy project view ID `3` with its equivalent name, `card`. The Aggie profile's
+internal author ID now matches its folder, preventing two pages from writing
+to the same URL and removing one duplicate entry in the generated author index.
+All 128 HTML page URLs are preserved. Some deprecated
+APIs in the archived theme still produce warnings with Hugo 0.167.0.
+
+## Updating recruitment
+
+Edit `content/recruitment/index.md` for the full advertisement and its `summary`
+for the short preview. The homepage and Join page both use the
+`recruitment` shortcode, which reads this same page and links to `/recruitment/`.
+Update this one file when positions, funding, start dates, or application
+instructions change; neither preview needs a separate edit.
+
+## Proposed lab logo
+
+The transparent logo concept is saved at `assets/media/msce-logo-v2.png`.
+It includes the full name, **Multiscale Science and Engineering Lab**, below
+the MSCE wordmark. The existing website logo is retained while this concept
+is reviewed. The built-in image-generation prompt is saved at
+`docs/branding/msce-logo-prompt.txt`.
+
 [![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.

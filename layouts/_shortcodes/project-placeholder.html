@@ -1,0 +1,9 @@
+<figure class="project-placeholder" aria-label="Image placeholder: {{ .Get "label" }}">
+  <div class="project-placeholder-frame">
+    <div>
+      <strong>Suggested project image</strong>
+      {{ with .Get "suggestion" }}<p>{{ . }}</p>{{ end }}
+    </div>
+  </div>
+  <figcaption>{{ .Get "label" }}</figcaption>
+</figure>

@@ -32,8 +32,7 @@ url_pdf: ""
 projects: [mem_spacer_optim]
 publishDate: '2023-03-26T22:08:38.202742Z'
 publication_types:
-- '2'
-doi: 
+  - 'article-journal'
 abstract: 'Optimization and design of full-scale membrane distillation (MD) systems usually require Sherwood and Nusselt correlations that are developed from lab-scale systems. However, entrance effects in lab-scale systems can significantly impact heat, mass and momentum transfer in the reactor, therefore affect the accuracy of the developed experimental Sherwood and Nusselt correlations. Here, Computational Fluid Dynamics (CFD) simulations using OpenFOAM are performed to understand the effects of right-angled bends and inlet design on flow dynamics, temperature and concentration polarization in MD systems. Simulation results show that the presence of right-angled bends and inlets with sudden expansions lead to the formation of Dean vortices. Dean vortices enhance perpendicular mixing in MD systems and reduce both temperature and concentration polarization. Temperature and concentration polarization coefficients in MD systems with right-angled bends and inlets with sudden expansions vary significantly for the same volumetric flow rate. Our studies show that lab-scale systems with the same volumetric flow rate but different designs lead to significantly different Nusselt and Sherwood correlations. This study demonstrates the importance of CFD-informed design of lab- scale systems to minimize entrance effects and suppress Dean vortices for consistent model development and calibration across multiple scales.'
 publication: '*Separation and Purification Technology*, 314, 123664'
 doi: 10.1016/j.seppur.2023.123664

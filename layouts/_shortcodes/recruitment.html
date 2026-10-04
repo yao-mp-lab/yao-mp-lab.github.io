@@ -1,0 +1,10 @@
+{{/* One advertisement supplies both homepage and Join-page previews. */}}
+{{ with site.GetPage "/recruitment" }}
+  <div class="recruitment-card">
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <p>{{ .Summary | plainify }}</p>
+    <a class="btn btn-primary" href="{{ .RelPermalink }}">Read the advertisement →</a>
+  </div>
+{{ else }}
+  {{ errorf "The shared recruitment advertisement is missing: content/recruitment/index.md" }}
+{{ end }}

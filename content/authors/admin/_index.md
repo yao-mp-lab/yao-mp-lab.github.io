@@ -10,7 +10,9 @@ last_name: Yao
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Principal Investigator
+team_bio: >-
+  Yinuo “Noah” Yao is an Assistant Professor in Civil and Environmental Engineering at Texas A&M University and leads the MSCE Lab. His research combines modeling, simulations, and experiments to study water treatment, resource recovery, and energy storage across multiple scales. He received his Ph.D. from Stanford University and his B.Eng. from the National University of Singapore.
 
 # Organizations/Affiliations
 organizations:
@@ -57,9 +59,6 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Yinuo-Yao
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/noahyinuoyao
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yinuo-yao-ph-d-2aa111a2
@@ -78,7 +77,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Full-time Writer
+  - Principal Investigator
 ---
 
 I am an Assistant Professor in the Department of Civil and Environmental Engineering at the Texas A&M University. My research focuses on optimizing water, resource recovery technologies, and energy storage using a multiscale approach.

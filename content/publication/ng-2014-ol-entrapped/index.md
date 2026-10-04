@@ -35,7 +35,8 @@ url_pdf: ""
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-03-07T22:08:38.840063Z'
-publication_types: ['2']
+publication_types:
+  - 'article-journal'
 publication: '*Bioresoure Technology*, 171, 265-273'
 
 abstract: 'In this study, a bio-entrapped membrane reactor (BEMR) and a salt marsh sediment membrane bioreactor (SMSMBR) were evaluated to study the organic treatment performance of pharmaceutical wastewater. The influences of hydraulic retention time (HRT) and salinity were also studied. The conventional biomass in the BEMR cannot tolerate well of the hypersaline conditions, resulting in total chemical oxygen demand (TCOD) removal efficiency of 54.2-68.0%. On the other hand, microorganisms in the SMSMBR, which was seeded from coastal shore, strived and was able to degrade the complex organic in the presence of salt effectively, achieving 74.7-90.9% of TCOD removal efficiencies. Marine microorganisms able to degrade recalcitrant compounds and utilize hydrocarbon compounds were found in the SMSMBR, which resulted in higher organic removal efficiency than the BEMR. However, specific nitrifying activity decreased and inhibited due to the saline effect that led to poor ammonia nitrogen removal.'

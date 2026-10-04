@@ -1,9 +1,7 @@
 ---
 title: Current Projects
 
-# Listing view
-# view: showcase
-view: 3
+# All projects are displayed inline with a sticky project navigator.
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

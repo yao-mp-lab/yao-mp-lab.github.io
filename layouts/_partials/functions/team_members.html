@@ -1,0 +1,23 @@
+{{/* Keep the name index and biographies in the same role/name order. */}}
+{{ $members := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .group) }}
+{{ $entries := slice }}
+{{ range $members }}
+  {{ $role := lower (.Params.role | default "") }}
+  {{ $rank := 80 }}
+  {{ if .Params.team_placeholder }}
+    {{ $rank = 99 }}
+  {{ else if or (in $role "visiting") (in $role "visitor") }}
+    {{ $rank = 40 }}
+  {{ else if in $role "postdoc" }}
+    {{ $rank = 10 }}
+  {{ else if or (findRE "ph\\.?d" $role) (in $role "doctoral") }}
+    {{ $rank = 20 }}
+  {{ else if in $role "undergrad" }}
+    {{ $rank = 30 }}
+  {{ end }}
+  {{ $key := printf "%02d-%s-%s" $rank (lower (.Params.last_name | default .Title)) (lower (.Params.first_name | default .Title)) }}
+  {{ $entries = $entries | append (dict "member" . "order" $key) }}
+{{ end }}
+{{ $ordered := slice }}
+{{ range sort $entries "order" "asc" }}{{ $ordered = $ordered | append .member }}{{ end }}
+{{ return $ordered }}

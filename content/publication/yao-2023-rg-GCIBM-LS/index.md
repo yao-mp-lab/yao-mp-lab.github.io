@@ -36,8 +36,7 @@ url_pdf: ""
 projects: [reactive_porous]
 publishDate: '2023-01-10T22:08:38.202742Z'
 publication_types:
-- '2'
-doi: 
+  - 'article-journal'
 abstract: 'A simulation framework based on the level-set and the immersed boundary methods (LS-IBM) has been developed for reactive transport problems in porous media involving a moving solid-fluid interface. The interface movement due to  surface reactions is tracked by the level-set method, while the immersed boundary method captures the momentum and mass transport at the interface. The proposed method is capable of accurately modeling transport  near evolving boundaries in Cartesian grids. The framework formulation guarantees second order accuracy {in space}. Since the interface velocity is only defined at the moving boundary, an interface velocity propagation method is also proposed. The  method can be applied to other moving interface  problems of the ``Stefan'' type. Here, we validate the proposed LS-IBM both for flow and transport close to an immersed object with reactive boundaries as well as for crystal growth. The proposed method provides a powerful tool to model more realistic problems involving moving reactive interfaces in complex domains.'
 
 publication: '*Journal of Computational Physics*, 111958'

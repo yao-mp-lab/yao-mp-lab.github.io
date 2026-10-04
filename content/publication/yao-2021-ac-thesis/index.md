@@ -30,7 +30,7 @@ url_pdf: ""
 projects: [prs_ww_optim]
 publishDate: '2022-06-22T22:08:38.202742Z'
 publication_types:
-- '7'
+  - 'thesis'
 doi: 
 abstract: 'The activated sludge (AS) process for domestic wastewater treatment is an energy-intensive process due to the aeration demand from aerobic microorganisms. Recently, the Staged Anaerobic Fluidized-bed Membrane Bioreactor (SAF-MBR), which consists of an anaerobic fluidized-bed reactor (AFBR) and a particle-sparged membrane bioreactor (P-MBR), has been developed to reduce the energy intensity of domestic wastewater treatment by using anaerobic microorganisms that convert organics into methane in the absence of aeration. While this has the potential to transform domestic wastewater treatment into an energy positive process, the moving particles in the SAF-MBR induce hydrodynamic processes related to flow-particle and particle-particle interactions that are poorly understood. These processes are critical for biological treatment because they enhance mass transfer and mixing in the AFBR and can prevent membrane damage and fouling by optimizing effective collisions (i.e., scouring) in the P-MBR. With a better understanding of hydrodynamics, better design and operational practices can be developed.
 

@@ -4,13 +4,17 @@ title: Aggie
 
 # Username (this should match the folder name)
 authors:
-  - Aggie
+  - AggiePostdoc3
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Researcher
+role: Future Lab Member
+team_name: Aggie
+team_placeholder: true
+team_bio: >-
+  This could be you! We welcome students and researchers interested in flow, transport, and environmental and energy systems. Explore our [funded research opportunities](/recruitment/) or [other ways to join the lab](/join/), and get in touch to discuss your interests.
 
 # Organizations/Affiliations
 organizations:
